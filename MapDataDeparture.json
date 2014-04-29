@@ -61,4 +61,7 @@
 {"Origin": "57", "Origin_airport": "SLC", "Origin_city": "Salt Lake City Intl", "null": ["136", "136"], "TotalFlights": "-111.9777731", "Origin_long": "40.78838778", "Origin_lat": "Salt Lake City"}
 {"Origin": "58", "Origin_airport": "SMF", "Origin_city": "Sacramento International", "null": ["230", "230"], "TotalFlights": "-121.5907669", "Origin_long": "38.69542167", "Origin_lat": "Sacramento"}
 {"Origin": "59", "Origin_airport": "SNA", "Origin_city": "John Wayne /Orange Co", "null": ["107", "107"], "TotalFlights": "-117.86822250000002", "Origin_long": "33.67565861", "Origin_lat": "Santa Ana"}
-{"Origin": "60", "Origin_airport": "STL", "Origin_city": "
+{"Origin": "60", "Origin_airport": "STL", "Origin_city": "Lambert-St Louis International", "null": ["207", "207"], "TotalFlights": "-90.35998972", "Origin_long": "38.74768694", "Origin_lat": "St Louis"}
+{"Origin": "61", "Origin_airport": "TPA", "Origin_city": "Tampa International ", "null": ["246", "246"], "TotalFlights": "-82.53325", "Origin_long": "27.97547222", "Origin_lat": "Tampa"}
+{"Origin": "62", "Origin_airport": "TUL", "Origin_city": "Tulsa International", "null": ["56", "56"], "TotalFlights": "-95.88824167", "Origin_long": "36.19837222", "Origin_lat": "Tulsa"}
+{"Origin": "63", "Origin_airport": "TUS", "Origin_city": "Tucson International", "null": ["59", "59"], "TotalFlights": "-110.94102779999999", "Origin_long": "32.11608333", "Origin_lat": "Tucson"}

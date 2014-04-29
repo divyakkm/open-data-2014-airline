@@ -64,4 +64,4 @@
 {"Dest_airport": "STL", "Dest": "60", "Dest_city": "Lambert-St Louis International", "null": ["210", "210"], "TotalFlights": "-90.35998972", "Dest_long": "38.74768694", "Dest_lat": "St Louis"}
 {"Dest_airport": "TPA", "Dest": "61", "Dest_city": "Tampa International ", "null": ["252", "252"], "TotalFlights": "-82.53325", "Dest_long": "27.97547222", "Dest_lat": "Tampa"}
 {"Dest_airport": "TUL", "Dest": "62", "Dest_city": "Tulsa International", "null": ["54", "54"], "TotalFlights": "-95.88824167", "Dest_long": "36.19837222", "Dest_lat": "Tulsa"}
-{"Dest_airport": "TUS", "Dest": "63", "Dest_city": "Tucson International", "null": ["65", "65"], "TotalFlights": "-110.94102779999999", "Dest_long": "32.11
+{"Dest_airport": "TUS", "Dest": "63", "Dest_city": "Tucson International", "null": ["65", "65"], "TotalFlights": "-110.94102779999999", "Dest_long": "32.11608333", "Dest_lat": "Tucson"}
