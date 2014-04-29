@@ -1,67 +1,303 @@
 {"Dest_airport": "Dest", "Dest": "", "Dest_city": "Dest_airport", "null": ["Dest", "Year"], "TotalFlights": "Dest_long", "Dest_long": "Dest_lat", "Dest_lat": "Dest_city"}
 {"Dest_airport": "", "Dest": "", "Dest_city": "", "null": ["len", "len"], "TotalFlights": "", "Dest_long": "", "Dest_lat": ""}
 {"Dest_airport": "", "Dest": "", "Dest_city": "", "null": ["", ""], "TotalFlights": "", "Dest_long": "", "Dest_lat": ""}
-{"Dest_airport": "ABQ", "Dest": "0", "Dest_city": "Albuquerque International", "null": ["195", "195"], "TotalFlights": "-106.6091944", "Dest_long": "35.04022222", "Dest_lat": "Albuquerque"}
-{"Dest_airport": "ALB", "Dest": "1", "Dest_city": "Albany Cty", "null": ["41", "41"], "TotalFlights": "-73.80297861", "Dest_long": "42.74811944", "Dest_lat": "Albany"}
-{"Dest_airport": "AMA", "Dest": "2", "Dest_city": "Amarillo International", "null": ["33", "33"], "TotalFlights": "-101.7059272", "Dest_long": "35.2193725", "Dest_lat": "Amarillo"}
-{"Dest_airport": "AUS", "Dest": "3", "Dest_city": "Austin-Bergstrom International", "null": ["140", "140"], "TotalFlights": "-97.66987194", "Dest_long": "30.19453278", "Dest_lat": "Austin"}
-{"Dest_airport": "BDL", "Dest": "4", "Dest_city": "Bradley International", "null": ["55", "55"], "TotalFlights": "-72.68322833", "Dest_long": "41.93887417", "Dest_lat": "Windsor Locks"}
-{"Dest_airport": "BHM", "Dest": "5", "Dest_city": "Birmingham International", "null": ["82", "82"], "TotalFlights": "-86.75354972", "Dest_long": "33.56294306", "Dest_lat": "Birmingham"}
-{"Dest_airport": "BNA", "Dest": "6", "Dest_city": "Nashville International", "null": ["256", "256"], "TotalFlights": "-86.67818222", "Dest_long": "36.12447667", "Dest_lat": "Nashville"}
-{"Dest_airport": "BOI", "Dest": "7", "Dest_city": "Boise Air Terminal", "null": ["58", "58"], "TotalFlights": "-116.22277779999999", "Dest_long": "43.56444444", "Dest_lat": "Boise"}
-{"Dest_airport": "BUF", "Dest": "8", "Dest_city": "Buffalo Niagara Intl", "null": ["49", "49"], "TotalFlights": "-78.73216667", "Dest_long": "42.94052472", "Dest_lat": "Buffalo"}
-{"Dest_airport": "BUR", "Dest": "9", "Dest_city": "Burbank-Glendale-Pasadena", "null": ["184", "184"], "TotalFlights": "-118.3584969", "Dest_long": "34.20061917", "Dest_lat": "Burbank"}
-{"Dest_airport": "BWI", "Dest": "10", "Dest_city": "Baltimore-Washington International", "null": ["498", "498"], "TotalFlights": "-76.66819833", "Dest_long": "39.17540167", "Dest_lat": "Baltimore"}
-{"Dest_airport": "CLE", "Dest": "11", "Dest_city": "Cleveland-Hopkins Intl", "null": ["51", "51"], "TotalFlights": "-81.84939667", "Dest_long": "41.41089417", "Dest_lat": "Cleveland"}
-{"Dest_airport": "CMH", "Dest": "12", "Dest_city": "Port Columbus Intl", "null": ["83", "83"], "TotalFlights": "-82.89188278", "Dest_long": "39.99798528", "Dest_lat": "Columbus"}
-{"Dest_airport": "CRP", "Dest": "13", "Dest_city": "Corpus Christi International", "null": ["14", "14"], "TotalFlights": "-97.50121528", "Dest_long": "27.77036083", "Dest_lat": "Corpus Christi"}
-{"Dest_airport": "DAL", "Dest": "14", "Dest_city": "Dallas Love ", "null": ["361", "361"], "TotalFlights": "-96.85177222", "Dest_long": "32.84711389", "Dest_lat": "Dallas"}
-{"Dest_airport": "DEN", "Dest": "15", "Dest_city": "Denver Intl", "null": ["167", "167"], "TotalFlights": "-104.6670019", "Dest_long": "39.85840806", "Dest_lat": "Denver"}
-{"Dest_airport": "DTW", "Dest": "16", "Dest_city": "Detroit Metropolitan-Wayne County", "null": ["58", "58"], "TotalFlights": "-83.34883583", "Dest_long": "42.21205889", "Dest_lat": "Detroit"}
-{"Dest_airport": "ELP", "Dest": "17", "Dest_city": "El Paso International", "null": ["95", "95"], "TotalFlights": "-106.37780559999999", "Dest_long": "31.80666667", "Dest_lat": "El Paso"}
-{"Dest_airport": "FLL", "Dest": "18", "Dest_city": "Fort Lauderdale-Hollywood Int'l", "null": ["135", "135"], "TotalFlights": "-80.15275", "Dest_long": "26.07258333", "Dest_lat": "Ft. Lauderdale"}
-{"Dest_airport": "GEG", "Dest": "19", "Dest_city": "Spokane Intl", "null": ["49", "49"], "TotalFlights": "-117.5338425", "Dest_long": "47.61985556", "Dest_lat": "Spokane"}
-{"Dest_airport": "HOU", "Dest": "20", "Dest_city": "William P Hobby", "null": ["410", "410"], "TotalFlights": "-95.27888889", "Dest_long": "29.64541861", "Dest_lat": "Houston"}
-{"Dest_airport": "HRL", "Dest": "21", "Dest_city": "Valley International", "null": ["31", "31"], "TotalFlights": "-97.65439389", "Dest_long": "26.22850611", "Dest_lat": "Harlingen"}
-{"Dest_airport": "IAD", "Dest": "22", "Dest_city": "Washington Dulles International", "null": ["32", "32"], "TotalFlights": "-77.45580972", "Dest_long": "38.94453194", "Dest_lat": "Chantilly"}
-{"Dest_airport": "IND", "Dest": "23", "Dest_city": "Indianapolis International", "null": ["50", "50"], "TotalFlights": "-86.29438417", "Dest_long": "39.71732917", "Dest_lat": "Indianapolis"}
-{"Dest_airport": "ISP", "Dest": "24", "Dest_city": "Long Island - MacArthur", "null": ["84", "84"], "TotalFlights": "-73.10021194", "Dest_long": "40.7952425", "Dest_lat": "Islip"}
-{"Dest_airport": "JAN", "Dest": "25", "Dest_city": "Jackson International", "null": ["26", "26"], "TotalFlights": "-90.07588889", "Dest_long": "32.31116667", "Dest_lat": "Jackson"}
-{"Dest_airport": "JAX", "Dest": "26", "Dest_city": "Jacksonville International", "null": ["66", "66"], "TotalFlights": "-81.68786111", "Dest_long": "30.49405556", "Dest_lat": "Jacksonville"}
-{"Dest_airport": "LAS", "Dest": "27", "Dest_city": "McCarran International", "null": ["703", "703"], "TotalFlights": "-115.15233329999998", "Dest_long": "36.08036111", "Dest_lat": "Las Vegas"}
-{"Dest_airport": "LAX", "Dest": "28", "Dest_city": "Los Angeles International", "null": ["357", "357"], "TotalFlights": "-118.40807439999999", "Dest_long": "33.94253611", "Dest_lat": "Los Angeles"}
-{"Dest_airport": "LBB", "Dest": "29", "Dest_city": "Lubbock International", "null": ["36", "36"], "TotalFlights": "-101.8227778", "Dest_long": "33.66363889", "Dest_lat": "Lubbock"}
-{"Dest_airport": "LIT", "Dest": "30", "Dest_city": "Adams ", "null": ["39", "39"], "TotalFlights": "-92.22424556", "Dest_long": "34.72939611", "Dest_lat": "Little Rock"}
-{"Dest_airport": "MAF", "Dest": "31", "Dest_city": "Midland International", "null": ["34", "34"], "TotalFlights": "-102.20191390000001", "Dest_long": "31.94252778", "Dest_lat": "Midland"}
-{"Dest_airport": "MCI", "Dest": "32", "Dest_city": "Kansas City International", "null": ["211", "211"], "TotalFlights": "-94.71390556", "Dest_long": "39.29760528", "Dest_lat": "Kansas City"}
-{"Dest_airport": "MCO", "Dest": "33", "Dest_city": "Orlando International", "null": ["353", "353"], "TotalFlights": "-81.31602778", "Dest_long": "28.42888889", "Dest_lat": "Orlando"}
-{"Dest_airport": "MDW", "Dest": "34", "Dest_city": "Chicago Midway", "null": ["661", "661"], "TotalFlights": "-87.75242444", "Dest_long": "41.7859825", "Dest_lat": "Chicago"}
-{"Dest_airport": "MHT", "Dest": "35", "Dest_city": "Manchester", "null": ["86", "86"], "TotalFlights": "-71.43705583", "Dest_long": "42.93451639", "Dest_lat": "Manchester"}
-{"Dest_airport": "MSY", "Dest": "36", "Dest_city": "New Orleans International ", "null": ["103", "103"], "TotalFlights": "-90.25802778", "Dest_long": "29.99338889", "Dest_lat": "New Orleans"}
-{"Dest_airport": "OAK", "Dest": "37", "Dest_city": "Metropolitan Oakland International", "null": ["435", "435"], "TotalFlights": "-122.22071670000001", "Dest_long": "37.72129083", "Dest_lat": "Oakland"}
-{"Dest_airport": "OKC", "Dest": "38", "Dest_city": "Will Rogers World", "null": ["62", "62"], "TotalFlights": "-97.60073389", "Dest_long": "35.39308833", "Dest_lat": "Oklahoma City"}
-{"Dest_airport": "OMA", "Dest": "39", "Dest_city": "Eppley Airfield", "null": ["46", "46"], "TotalFlights": "-95.89417306", "Dest_long": "41.30251861", "Dest_lat": "Omaha"}
-{"Dest_airport": "ONT", "Dest": "40", "Dest_city": "Ontario International", "null": ["165", "165"], "TotalFlights": "-117.60119440000001", "Dest_long": "34.056", "Dest_lat": "Ontario"}
-{"Dest_airport": "ORF", "Dest": "41", "Dest_city": "Norfolk International", "null": ["40", "40"], "TotalFlights": "-76.20122222", "Dest_long": "36.89461111", "Dest_lat": "Norfolk"}
-{"Dest_airport": "PBI", "Dest": "42", "Dest_city": "Palm Beach International", "null": ["41", "41"], "TotalFlights": "-80.09559417", "Dest_long": "26.68316194", "Dest_lat": "West Palm Beach"}
-{"Dest_airport": "PDX", "Dest": "43", "Dest_city": "Portland Intl", "null": ["120", "120"], "TotalFlights": "-122.5975", "Dest_long": "45.58872222", "Dest_lat": "Portland"}
-{"Dest_airport": "PHL", "Dest": "44", "Dest_city": "Philadelphia Intl", "null": ["176", "176"], "TotalFlights": "-75.24114083", "Dest_long": "39.87195278", "Dest_lat": "Philadelphia"}
-{"Dest_airport": "PHX", "Dest": "45", "Dest_city": "Phoenix Sky Harbor International", "null": ["595", "595"], "TotalFlights": "-112.00805559999999", "Dest_long": "33.43416667", "Dest_lat": "Phoenix"}
-{"Dest_airport": "PIT", "Dest": "46", "Dest_city": "Pittsburgh International", "null": ["67", "67"], "TotalFlights": "-80.23287083", "Dest_long": "40.49146583", "Dest_lat": "Pittsburgh"}
-{"Dest_airport": "PVD", "Dest": "47", "Dest_city": "Theodore F Green State", "null": ["97", "97"], "TotalFlights": "-71.42822111", "Dest_long": "41.72399917", "Dest_lat": "Providence"}
-{"Dest_airport": "RDU", "Dest": "48", "Dest_city": "Raleigh-Durham International", "null": ["90", "90"], "TotalFlights": "-78.78747222", "Dest_long": "35.87763889", "Dest_lat": "Raleigh"}
-{"Dest_airport": "RNO", "Dest": "49", "Dest_city": "Reno/Tahoe International", "null": ["127", "127"], "TotalFlights": "-119.76806470000001", "Dest_long": "39.49857611", "Dest_lat": "Reno"}
-{"Dest_airport": "RSW", "Dest": "50", "Dest_city": "Southwest Florida International", "null": ["34", "34"], "TotalFlights": "-81.75516667", "Dest_long": "26.53616667", "Dest_lat": "Ft. Myers"}
-{"Dest_airport": "SAN", "Dest": "51", "Dest_city": "San Diego International-Lindbergh ", "null": ["304", "304"], "TotalFlights": "-117.1896567", "Dest_long": "32.73355611", "Dest_lat": "San Diego"}
-{"Dest_airport": "SAT", "Dest": "52", "Dest_city": "San Antonio International", "null": ["135", "135"], "TotalFlights": "-98.46977778", "Dest_long": "29.53369444", "Dest_lat": "San Antonio"}
-{"Dest_airport": "SDF", "Dest": "53", "Dest_city": "Louisville International-Standiford ", "null": ["58", "58"], "TotalFlights": "-85.736", "Dest_long": "38.17438889", "Dest_lat": "Louisville"}
-{"Dest_airport": "SEA", "Dest": "54", "Dest_city": "Seattle-Tacoma Intl", "null": ["134", "134"], "TotalFlights": "-122.30931310000001", "Dest_long": "47.44898194", "Dest_lat": "Seattle"}
-{"Dest_airport": "SFO", "Dest": "55", "Dest_city": "San Francisco International", "null": ["86", "86"], "TotalFlights": "-122.3748433", "Dest_long": "37.61900194", "Dest_lat": "San Francisco"}
-{"Dest_airport": "SJC", "Dest": "56", "Dest_city": "San Jose International", "null": ["228", "228"], "TotalFlights": "-121.92900890000001", "Dest_long": "37.36186194", "Dest_lat": "San Jose"}
-{"Dest_airport": "SLC", "Dest": "57", "Dest_city": "Salt Lake City Intl", "null": ["144", "144"], "TotalFlights": "-111.9777731", "Dest_long": "40.78838778", "Dest_lat": "Salt Lake City"}
-{"Dest_airport": "SMF", "Dest": "58", "Dest_city": "Sacramento International", "null": ["237", "237"], "TotalFlights": "-121.5907669", "Dest_long": "38.69542167", "Dest_lat": "Sacramento"}
-{"Dest_airport": "SNA", "Dest": "59", "Dest_city": "John Wayne /Orange Co", "null": ["112", "112"], "TotalFlights": "-117.86822250000002", "Dest_long": "33.67565861", "Dest_lat": "Santa Ana"}
-{"Dest_airport": "STL", "Dest": "60", "Dest_city": "Lambert-St Louis International", "null": ["210", "210"], "TotalFlights": "-90.35998972", "Dest_long": "38.74768694", "Dest_lat": "St Louis"}
-{"Dest_airport": "TPA", "Dest": "61", "Dest_city": "Tampa International ", "null": ["252", "252"], "TotalFlights": "-82.53325", "Dest_long": "27.97547222", "Dest_lat": "Tampa"}
-{"Dest_airport": "TUL", "Dest": "62", "Dest_city": "Tulsa International", "null": ["54", "54"], "TotalFlights": "-95.88824167", "Dest_long": "36.19837222", "Dest_lat": "Tulsa"}
-{"Dest_airport": "TUS", "Dest": "63", "Dest_city": "Tucson International", "null": ["65", "65"], "TotalFlights": "-110.94102779999999", "Dest_long": "32.11608333", "Dest_lat": "Tucson"}
+{"Dest_airport": "ABE", "Dest": "0", "Dest_city": "Lehigh Valley International", "null": ["4795", "4795"], "TotalFlights": "-75.44040167", "Dest_long": "40.65236278", "Dest_lat": "Allentown"}
+{"Dest_airport": "ABI", "Dest": "1", "Dest_city": "Abilene Regional", "null": ["2661", "2661"], "TotalFlights": "-99.68189722", "Dest_long": "32.41132", "Dest_lat": "Abilene"}
+{"Dest_airport": "ABQ", "Dest": "2", "Dest_city": "Albuquerque International", "null": ["41144", "41144"], "TotalFlights": "-106.6091944", "Dest_long": "35.04022222", "Dest_lat": "Albuquerque"}
+{"Dest_airport": "ABY", "Dest": "3", "Dest_city": "Southwest Georgia Regional", "null": ["1095", "1095"], "TotalFlights": "-84.19447333", "Dest_long": "31.535515000000004", "Dest_lat": "Albany"}
+{"Dest_airport": "ACK", "Dest": "4", "Dest_city": "Nantucket Memorial", "null": ["469", "469"], "TotalFlights": "-70.06018139", "Dest_long": "41.25305194", "Dest_lat": "Nantucket"}
+{"Dest_airport": "ACT", "Dest": "5", "Dest_city": "Waco Regional", "null": ["1994", "1994"], "TotalFlights": "-97.23051917", "Dest_long": "31.61128833", "Dest_lat": "Waco"}
+{"Dest_airport": "ACV", "Dest": "6", "Dest_city": "Arcata", "null": ["3702", "3702"], "TotalFlights": "-124.1086189", "Dest_long": "40.97811528", "Dest_lat": "Arcata/Eureka"}
+{"Dest_airport": "ACY", "Dest": "7", "Dest_city": "Atlantic City International", "null": ["113", "113"], "TotalFlights": "-74.57716667", "Dest_long": "39.45758333", "Dest_lat": "Atlantic City"}
+{"Dest_airport": "ADK", "Dest": "8", "Dest_city": "Adak", "null": ["102", "102"], "TotalFlights": "-176.6460306", "Dest_long": "51.87796389", "Dest_lat": "Adak"}
+{"Dest_airport": "ADQ", "Dest": "9", "Dest_city": "Kodiak ", "null": ["706", "706"], "TotalFlights": "-152.4938553", "Dest_long": "57.74996778", "Dest_lat": "Kodiak"}
+{"Dest_airport": "AEX", "Dest": "10", "Dest_city": "Alexandria International", "null": ["2327", "2327"], "TotalFlights": "-92.54855611", "Dest_long": "31.32737167", "Dest_lat": "Alexandria"}
+{"Dest_airport": "AGS", "Dest": "11", "Dest_city": "Bush ", "null": ["2406", "2406"], "TotalFlights": "-81.96449611", "Dest_long": "33.369955", "Dest_lat": "Augusta"}
+{"Dest_airport": "AKN", "Dest": "12", "Dest_city": "King Salmon", "null": ["116", "116"], "TotalFlights": "-156.6492175", "Dest_long": "58.67680167", "Dest_lat": "King Salmon"}
+{"Dest_airport": "ALB", "Dest": "13", "Dest_city": "Albany Cty", "null": ["13468", "13468"], "TotalFlights": "-73.80297861", "Dest_long": "42.74811944", "Dest_lat": "Albany"}
+{"Dest_airport": "ALO", "Dest": "14", "Dest_city": "Waterloo Municipal", "null": ["323", "323"], "TotalFlights": "-92.40034361", "Dest_long": "42.55708139", "Dest_lat": "Waterloo"}
+{"Dest_airport": "AMA", "Dest": "15", "Dest_city": "Amarillo International", "null": ["7490", "7490"], "TotalFlights": "-101.7059272", "Dest_long": "35.2193725", "Dest_lat": "Amarillo"}
+{"Dest_airport": "ANC", "Dest": "16", "Dest_city": "Ted Stevens Anchorage International", "null": ["19329", "19329"], "TotalFlights": "-149.9961856", "Dest_long": "61.17432028", "Dest_lat": "Anchorage"}
+{"Dest_airport": "ASE", "Dest": "17", "Dest_city": "Aspen-Pitkin Co/Sardy ", "null": ["5243", "5243"], "TotalFlights": "-106.868845", "Dest_long": "39.22316", "Dest_lat": "Aspen"}
+{"Dest_airport": "ATL", "Dest": "18", "Dest_city": "William B Hartsfield-Atlanta Intl", "null": ["414521", "414521"], "TotalFlights": "-84.42694444", "Dest_long": "33.64044444", "Dest_lat": "Atlanta"}
+{"Dest_airport": "ATW", "Dest": "19", "Dest_city": "Outagamie County Regional", "null": ["5872", "5872"], "TotalFlights": "-88.51947556", "Dest_long": "44.25740806", "Dest_lat": "Appleton"}
+{"Dest_airport": "AUS", "Dest": "20", "Dest_city": "Austin-Bergstrom International", "null": ["49637", "49637"], "TotalFlights": "-97.66987194", "Dest_long": "30.19453278", "Dest_lat": "Austin"}
+{"Dest_airport": "AVL", "Dest": "21", "Dest_city": "Asheville Regional", "null": ["4398", "4398"], "TotalFlights": "-82.54180556", "Dest_long": "35.43619444", "Dest_lat": "Asheville"}
+{"Dest_airport": "AVP", "Dest": "22", "Dest_city": "Wilkes-Barre/Scranton Intl", "null": ["2384", "2384"], "TotalFlights": "-75.72426750000001", "Dest_long": "41.33814944", "Dest_lat": "Wilkes-Barre/Scranton"}
+{"Dest_airport": "AZO", "Dest": "23", "Dest_city": "Kalamazoo County", "null": ["3921", "3921"], "TotalFlights": "-85.55205749999999", "Dest_long": "42.234875", "Dest_lat": "Kalamazoo"}
+{"Dest_airport": "BDL", "Dest": "24", "Dest_city": "Bradley International", "null": ["29445", "29445"], "TotalFlights": "-72.68322833", "Dest_long": "41.93887417", "Dest_lat": "Windsor Locks"}
+{"Dest_airport": "BET", "Dest": "25", "Dest_city": "Bethel", "null": ["1035", "1035"], "TotalFlights": "-161.8379975", "Dest_long": "60.77977639", "Dest_lat": "Bethel"}
+{"Dest_airport": "BFL", "Dest": "26", "Dest_city": "Meadows ", "null": ["4499", "4499"], "TotalFlights": "-119.05676809999999", "Dest_long": "35.43359806", "Dest_lat": "Bakersfield"}
+{"Dest_airport": "BGM", "Dest": "27", "Dest_city": "Binghamton Regional", "null": ["728", "728"], "TotalFlights": "-75.97961361", "Dest_long": "42.20848278", "Dest_lat": "Binghamton"}
+{"Dest_airport": "BGR", "Dest": "28", "Dest_city": "Bangor International", "null": ["2877", "2877"], "TotalFlights": "-68.82813889", "Dest_long": "44.80744444", "Dest_lat": "Bangor"}
+{"Dest_airport": "BHM", "Dest": "29", "Dest_city": "Birmingham International", "null": ["23679", "23679"], "TotalFlights": "-86.75354972", "Dest_long": "33.56294306", "Dest_lat": "Birmingham"}
+{"Dest_airport": "BIL", "Dest": "30", "Dest_city": "Billings Logan Intl", "null": ["4509", "4509"], "TotalFlights": "-108.54286110000001", "Dest_long": "45.8076625", "Dest_lat": "Billings"}
+{"Dest_airport": "BIS", "Dest": "31", "Dest_city": "Bismarck Municipal", "null": ["2292", "2292"], "TotalFlights": "-100.74672220000001", "Dest_long": "46.77411111", "Dest_lat": "Bismarck"}
+{"Dest_airport": "BJI", "Dest": "32", "Dest_city": "Bemidji-Beltrami County", "null": ["74", "74"], "TotalFlights": "-94.93372333", "Dest_long": "47.50942417", "Dest_lat": "Bemidji"}
+{"Dest_airport": "BLI", "Dest": "33", "Dest_city": "Bellingham Intl", "null": ["121", "121"], "TotalFlights": "-122.53752779999999", "Dest_long": "48.79275", "Dest_lat": "Bellingham"}
+{"Dest_airport": "BMI", "Dest": "34", "Dest_city": "Central Illinois Regional", "null": ["4799", "4799"], "TotalFlights": "-88.91595278", "Dest_long": "40.47798556", "Dest_lat": "Bloomington"}
+{"Dest_airport": "BNA", "Dest": "35", "Dest_city": "Nashville International", "null": ["57544", "57544"], "TotalFlights": "-86.67818222", "Dest_long": "36.12447667", "Dest_lat": "Nashville"}
+{"Dest_airport": "BOI", "Dest": "36", "Dest_city": "Boise Air Terminal", "null": ["17023", "17023"], "TotalFlights": "-116.22277779999999", "Dest_long": "43.56444444", "Dest_lat": "Boise"}
+{"Dest_airport": "BOS", "Dest": "37", "Dest_city": "Gen Edw L Logan Intl", "null": ["117944", "117944"], "TotalFlights": "-71.00517917", "Dest_long": "42.3643475", "Dest_lat": "Boston"}
+{"Dest_airport": "BPT", "Dest": "38", "Dest_city": "Southeast Texas Regional", "null": ["275", "275"], "TotalFlights": "-94.02069444", "Dest_long": "29.95083333", "Dest_lat": "Beaumont/Port Arthur"}
+{"Dest_airport": "BQK", "Dest": "39", "Dest_city": "Glynco Jetport", "null": ["924", "924"], "TotalFlights": "-81.46630556", "Dest_long": "31.25902778", "Dest_lat": "Brunswick"}
+{"Dest_airport": "BQN", "Dest": "40", "Dest_city": "Rafael Hernandez", "null": ["1519", "1519"], "TotalFlights": "-67.12944444", "Dest_long": "18.49486111", "Dest_lat": "Aguadilla"}
+{"Dest_airport": "BRO", "Dest": "41", "Dest_city": "Brownsville/S.Padre Island International", "null": ["1465", "1465"], "TotalFlights": "-97.42586111", "Dest_long": "25.90683333", "Dest_lat": "Brownsville"}
+{"Dest_airport": "BRW", "Dest": "42", "Dest_city": "Wiley Post Will Rogers Memorial", "null": ["728", "728"], "TotalFlights": "-156.76600190000002", "Dest_long": "71.2854475", "Dest_lat": "Barrow"}
+{"Dest_airport": "BTM", "Dest": "43", "Dest_city": "Bert Mooney", "null": ["705", "705"], "TotalFlights": "-112.49746", "Dest_long": "45.95479528", "Dest_lat": "Butte"}
+{"Dest_airport": "BTR", "Dest": "44", "Dest_city": "Baton Rouge Metropolitan, Ryan ", "null": ["8939", "8939"], "TotalFlights": "-91.14963444", "Dest_long": "30.53316083", "Dest_lat": "Baton Rouge"}
+{"Dest_airport": "BTV", "Dest": "45", "Dest_city": "Burlington International", "null": ["7006", "7006"], "TotalFlights": "-73.1503125", "Dest_long": "44.47300361", "Dest_lat": "Burlington"}
+{"Dest_airport": "BUF", "Dest": "46", "Dest_city": "Buffalo Niagara Intl", "null": ["26277", "26277"], "TotalFlights": "-78.73216667", "Dest_long": "42.94052472", "Dest_lat": "Buffalo"}
+{"Dest_airport": "BUR", "Dest": "47", "Dest_city": "Burbank-Glendale-Pasadena", "null": ["31403", "31403"], "TotalFlights": "-118.3584969", "Dest_long": "34.20061917", "Dest_lat": "Burbank"}
+{"Dest_airport": "BWI", "Dest": "48", "Dest_city": "Baltimore-Washington International", "null": ["104068", "104068"], "TotalFlights": "-76.66819833", "Dest_long": "39.17540167", "Dest_lat": "Baltimore"}
+{"Dest_airport": "BZN", "Dest": "49", "Dest_city": "Gallatin ", "null": ["4650", "4650"], "TotalFlights": "-111.15300719999999", "Dest_long": "45.77690139", "Dest_lat": "Bozeman"}
+{"Dest_airport": "CAE", "Dest": "50", "Dest_city": "Columbia Metropolitan", "null": ["10552", "10552"], "TotalFlights": "-81.11953944", "Dest_long": "33.93884", "Dest_lat": "Columbia"}
+{"Dest_airport": "CAK", "Dest": "51", "Dest_city": "Akron-Canton Regional", "null": ["8993", "8993"], "TotalFlights": "-81.44246556", "Dest_long": "40.91631194", "Dest_lat": "Akron"}
+{"Dest_airport": "CDC", "Dest": "52", "Dest_city": "Cedar City Muni", "null": ["667", "667"], "TotalFlights": "-113.098575", "Dest_long": "37.70097028", "Dest_lat": "Cedar City"}
+{"Dest_airport": "CDV", "Dest": "53", "Dest_city": "Merle K (Mudhole) Smith", "null": ["725", "725"], "TotalFlights": "-145.4776503", "Dest_long": "60.49183389", "Dest_lat": "Cordova"}
+{"Dest_airport": "CEC", "Dest": "54", "Dest_city": "Jack McNamara ", "null": ["1067", "1067"], "TotalFlights": "-124.23653329999999", "Dest_long": "41.78015722", "Dest_lat": "Crescent City"}
+{"Dest_airport": "CHA", "Dest": "55", "Dest_city": "Lovell ", "null": ["4567", "4567"], "TotalFlights": "-85.20378778", "Dest_long": "35.03526833", "Dest_lat": "Chattanooga"}
+{"Dest_airport": "CHO", "Dest": "56", "Dest_city": "Charlottesville-Albermarle", "null": ["821", "821"], "TotalFlights": "-78.45286111", "Dest_long": "38.13863889", "Dest_lat": "Charlottesville"}
+{"Dest_airport": "CHS", "Dest": "57", "Dest_city": "Charleston AFB/International", "null": ["14179", "14179"], "TotalFlights": "-80.04050583", "Dest_long": "32.89864639", "Dest_lat": "Charleston"}
+{"Dest_airport": "CIC", "Dest": "58", "Dest_city": "Chico Municipal", "null": ["1392", "1392"], "TotalFlights": "-121.8584231", "Dest_long": "39.79538278", "Dest_lat": "Chico"}
+{"Dest_airport": "CID", "Dest": "59", "Dest_city": "Eastern Iowa ", "null": ["9371", "9371"], "TotalFlights": "-91.71087222", "Dest_long": "41.88458833", "Dest_lat": "Cedar Rapids"}
+{"Dest_airport": "CLE", "Dest": "60", "Dest_city": "Cleveland-Hopkins Intl", "null": ["65792", "65792"], "TotalFlights": "-81.84939667", "Dest_long": "41.41089417", "Dest_lat": "Cleveland"}
+{"Dest_airport": "CLL", "Dest": "61", "Dest_city": "Easterwood ", "null": ["1365", "1365"], "TotalFlights": "-96.36382417", "Dest_long": "30.58858944", "Dest_lat": "College Station"}
+{"Dest_airport": "CLT", "Dest": "62", "Dest_city": "Charlotte/Douglas International", "null": ["126030", "126030"], "TotalFlights": "-80.94312583", "Dest_long": "35.21401111", "Dest_lat": "Charlotte"}
+{"Dest_airport": "CMH", "Dest": "63", "Dest_city": "Port Columbus Intl", "null": ["34151", "34151"], "TotalFlights": "-82.89188278", "Dest_long": "39.99798528", "Dest_lat": "Columbus"}
+{"Dest_airport": "CMI", "Dest": "64", "Dest_city": "University of Illinois-Willard", "null": ["2770", "2770"], "TotalFlights": "-88.27805556", "Dest_long": "40.03925", "Dest_lat": "Champaign/Urbana"}
+{"Dest_airport": "CMX", "Dest": "65", "Dest_city": "Houghton County Memorial", "null": ["318", "318"], "TotalFlights": "-88.48906083", "Dest_long": "47.16841722", "Dest_lat": "Hancock"}
+{"Dest_airport": "COD", "Dest": "66", "Dest_city": "Yellowstone Regional", "null": ["1187", "1187"], "TotalFlights": "-109.02379609999998", "Dest_long": "44.52019417", "Dest_lat": "Cody"}
+{"Dest_airport": "COS", "Dest": "67", "Dest_city": "City of Colorado Springs Muni", "null": ["16197", "16197"], "TotalFlights": "-104.70025", "Dest_long": "38.80580556", "Dest_lat": "Colorado Springs"}
+{"Dest_airport": "CPR", "Dest": "68", "Dest_city": "Natrona County Intl", "null": ["2704", "2704"], "TotalFlights": "-106.46446609999998", "Dest_long": "42.90835556", "Dest_lat": "Casper"}
+{"Dest_airport": "CRP", "Dest": "69", "Dest_city": "Corpus Christi International", "null": ["5269", "5269"], "TotalFlights": "-97.50121528", "Dest_long": "27.77036083", "Dest_lat": "Corpus Christi"}
+{"Dest_airport": "CRW", "Dest": "70", "Dest_city": "Yeager", "null": ["3413", "3413"], "TotalFlights": "-81.59318972", "Dest_long": "38.37315083", "Dest_lat": "Charleston"}
+{"Dest_airport": "CSG", "Dest": "71", "Dest_city": "Columbus Metropolitan", "null": ["1481", "1481"], "TotalFlights": "-84.93886111", "Dest_long": "32.51633333", "Dest_lat": "Columbus"}
+{"Dest_airport": "CVG", "Dest": "72", "Dest_city": "Cincinnati Northern Kentucky Intl", "null": ["91345", "91345"], "TotalFlights": "-84.6621725", "Dest_long": "39.04614278", "Dest_lat": "Covington"}
+{"Dest_airport": "CWA", "Dest": "73", "Dest_city": "Central Wisconsin", "null": ["2563", "2563"], "TotalFlights": "-89.66677944", "Dest_long": "44.77761917", "Dest_lat": "Mosinee"}
+{"Dest_airport": "CYS", "Dest": "74", "Dest_city": "Cheyenne", "null": ["2", "2"], "TotalFlights": "-104.81183809999999", "Dest_long": "41.155722499999996", "Dest_lat": "Cheyenne"}
+{"Dest_airport": "DAB", "Dest": "75", "Dest_city": "Daytona Beach International", "null": ["2956", "2956"], "TotalFlights": "-81.05805556", "Dest_long": "29.17991667", "Dest_lat": "Daytona Beach"}
+{"Dest_airport": "DAL", "Dest": "76", "Dest_city": "Dallas Love ", "null": ["53931", "53931"], "TotalFlights": "-96.85177222", "Dest_long": "32.84711389", "Dest_lat": "Dallas"}
+{"Dest_airport": "DAY", "Dest": "77", "Dest_city": "James M Cox Dayton Intl", "null": ["15785", "15785"], "TotalFlights": "-84.219375", "Dest_long": "39.90237583", "Dest_lat": "Dayton"}
+{"Dest_airport": "DBQ", "Dest": "78", "Dest_city": "Dubuque Municipal", "null": ["1347", "1347"], "TotalFlights": "-90.70916722", "Dest_long": "42.40295944", "Dest_lat": "Dubuque"}
+{"Dest_airport": "DCA", "Dest": "79", "Dest_city": "Ronald Reagan Washington National", "null": ["86671", "86671"], "TotalFlights": "-77.03772222", "Dest_long": "38.85208333", "Dest_lat": "Arlington"}
+{"Dest_airport": "DEN", "Dest": "80", "Dest_city": "Denver Intl", "null": ["241470", "241470"], "TotalFlights": "-104.6670019", "Dest_long": "39.85840806", "Dest_lat": "Denver"}
+{"Dest_airport": "DFW", "Dest": "81", "Dest_city": "Dallas-Fort Worth International", "null": ["281401", "281401"], "TotalFlights": "-97.0372", "Dest_long": "32.89595056", "Dest_lat": "Dallas-Fort Worth"}
+{"Dest_airport": "DHN", "Dest": "82", "Dest_city": "Dothan ", "null": ["1397", "1397"], "TotalFlights": "-85.44962889", "Dest_long": "31.32133917", "Dest_lat": "Dothan"}
+{"Dest_airport": "DLG", "Dest": "83", "Dest_city": "Dillingham", "null": ["116", "116"], "TotalFlights": "-158.5033389", "Dest_long": "59.0454125", "Dest_lat": "Dillingham"}
+{"Dest_airport": "DLH", "Dest": "84", "Dest_city": "Duluth International", "null": ["2012", "2012"], "TotalFlights": "-92.19364861", "Dest_long": "46.84209028", "Dest_lat": "Duluth"}
+{"Dest_airport": "DRO", "Dest": "85", "Dest_city": "Durango-La Plata County", "null": ["3670", "3670"], "TotalFlights": "-107.75376920000001", "Dest_long": "37.15151667", "Dest_lat": "Durango"}
+{"Dest_airport": "DSM", "Dest": "86", "Dest_city": "Des Moines International", "null": ["16639", "16639"], "TotalFlights": "-93.66068222", "Dest_long": "41.53493306", "Dest_lat": "Des Moines"}
+{"Dest_airport": "DTW", "Dest": "87", "Dest_city": "Detroit Metropolitan-Wayne County", "null": ["162000", "162000"], "TotalFlights": "-83.34883583", "Dest_long": "42.21205889", "Dest_lat": "Detroit"}
+{"Dest_airport": "EGE", "Dest": "88", "Dest_city": "Eagle County Regional", "null": ["3103", "3103"], "TotalFlights": "-106.91769529999999", "Dest_long": "39.64256778", "Dest_lat": "Eagle"}
+{"Dest_airport": "EKO", "Dest": "89", "Dest_city": "Elko Regional", "null": ["1579", "1579"], "TotalFlights": "-115.79169640000002", "Dest_long": "40.82492611", "Dest_lat": "Elko"}
+{"Dest_airport": "ELM", "Dest": "90", "Dest_city": "Elmira/Corning Regional", "null": ["1336", "1336"], "TotalFlights": "-76.89144333", "Dest_long": "42.15991361", "Dest_lat": "Elmira"}
+{"Dest_airport": "ELP", "Dest": "91", "Dest_city": "El Paso International", "null": ["20728", "20728"], "TotalFlights": "-106.37780559999999", "Dest_long": "31.80666667", "Dest_lat": "El Paso"}
+{"Dest_airport": "ERI", "Dest": "92", "Dest_city": "Erie Intl", "null": ["1398", "1398"], "TotalFlights": "-80.17621556", "Dest_long": "42.08202139", "Dest_lat": "Erie"}
+{"Dest_airport": "EUG", "Dest": "93", "Dest_city": "Mahlon Sweet ", "null": ["5752", "5752"], "TotalFlights": "-123.21868559999999", "Dest_long": "44.123259999999995", "Dest_lat": "Eugene"}
+{"Dest_airport": "EVV", "Dest": "94", "Dest_city": "Evansville Regional", "null": ["5840", "5840"], "TotalFlights": "-87.53062667", "Dest_long": "38.03799139", "Dest_lat": "Evansville"}
+{"Dest_airport": "EWN", "Dest": "95", "Dest_city": "Craven County Regional", "null": ["791", "791"], "TotalFlights": "-77.04294444", "Dest_long": "35.07297222", "Dest_lat": "New Bern"}
+{"Dest_airport": "EWR", "Dest": "96", "Dest_city": "Newark Intl", "null": ["138491", "138491"], "TotalFlights": "-74.16866056", "Dest_long": "40.69249722", "Dest_lat": "Newark"}
+{"Dest_airport": "EYW", "Dest": "97", "Dest_city": "Key West International", "null": ["1009", "1009"], "TotalFlights": "-81.75955556", "Dest_long": "24.55611111", "Dest_lat": "Key West"}
+{"Dest_airport": "FAI", "Dest": "98", "Dest_city": "Fairbanks International", "null": ["4822", "4822"], "TotalFlights": "-147.8596694", "Dest_long": "64.8136775", "Dest_lat": "Fairbanks"}
+{"Dest_airport": "FAR", "Dest": "99", "Dest_city": "Hector International", "null": ["4432", "4432"], "TotalFlights": "-96.81498889", "Dest_long": "46.91934889", "Dest_lat": "Fargo"}
+{"Dest_airport": "FAT", "Dest": "100", "Dest_city": "Fresno Yosemite International", "null": ["14277", "14277"], "TotalFlights": "-119.7181389", "Dest_long": "36.77619444", "Dest_lat": "Fresno"}
+{"Dest_airport": "FAY", "Dest": "101", "Dest_city": "Fayetteville Municipal", "null": ["2268", "2268"], "TotalFlights": "-78.88", "Dest_long": "34.99147222", "Dest_lat": "Fayetteville"}
+{"Dest_airport": "FCA", "Dest": "102", "Dest_city": "Glacier Park Intl", "null": ["2760", "2760"], "TotalFlights": "-114.25506940000001", "Dest_long": "48.31140472", "Dest_lat": "Kalispell"}
+{"Dest_airport": "FLG", "Dest": "103", "Dest_city": "Flagstaff Pulliam", "null": ["1871", "1871"], "TotalFlights": "-111.67121829999999", "Dest_long": "35.13845472", "Dest_lat": "Flagstaff"}
+{"Dest_airport": "FLL", "Dest": "104", "Dest_city": "Fort Lauderdale-Hollywood Int'l", "null": ["67179", "67179"], "TotalFlights": "-80.15275", "Dest_long": "26.07258333", "Dest_lat": "Ft. Lauderdale"}
+{"Dest_airport": "FLO", "Dest": "105", "Dest_city": "Florence Regional", "null": ["614", "614"], "TotalFlights": "-79.72388889", "Dest_long": "34.18536111", "Dest_lat": "Florence"}
+{"Dest_airport": "FNT", "Dest": "106", "Dest_city": "Bishop", "null": ["8751", "8751"], "TotalFlights": "-83.74345639", "Dest_long": "42.96550333", "Dest_lat": "Flint"}
+{"Dest_airport": "FSD", "Dest": "107", "Dest_city": "Joe Foss ", "null": ["5823", "5823"], "TotalFlights": "-96.74170028", "Dest_long": "43.58135111", "Dest_lat": "Sioux Falls"}
+{"Dest_airport": "FSM", "Dest": "108", "Dest_city": "Fort Smith Regional", "null": ["2936", "2936"], "TotalFlights": "-94.36744111", "Dest_long": "35.33659028", "Dest_lat": "Fort Smith"}
+{"Dest_airport": "FWA", "Dest": "109", "Dest_city": "Fort Wayne International", "null": ["6141", "6141"], "TotalFlights": "-85.19514639", "Dest_long": "40.97846583", "Dest_lat": "Fort Wayne"}
+{"Dest_airport": "GCC", "Dest": "110", "Dest_city": "Gillette-Campbell County", "null": ["1046", "1046"], "TotalFlights": "-105.5393614", "Dest_long": "44.34889806", "Dest_lat": "Gillette"}
+{"Dest_airport": "GEG", "Dest": "111", "Dest_city": "Spokane Intl", "null": ["15552", "15552"], "TotalFlights": "-117.5338425", "Dest_long": "47.61985556", "Dest_lat": "Spokane"}
+{"Dest_airport": "GFK", "Dest": "112", "Dest_city": "Grand Forks International", "null": ["1371", "1371"], "TotalFlights": "-97.17611111", "Dest_long": "47.949255", "Dest_lat": "Grand Forks"}
+{"Dest_airport": "GGG", "Dest": "113", "Dest_city": "Gregg County", "null": ["972", "972"], "TotalFlights": "-94.71171", "Dest_long": "32.38486111", "Dest_lat": "Longview"}
+{"Dest_airport": "GJT", "Dest": "114", "Dest_city": "Walker ", "null": ["5200", "5200"], "TotalFlights": "-108.5267347", "Dest_long": "39.1224125", "Dest_lat": "Grand Junction"}
+{"Dest_airport": "GNV", "Dest": "115", "Dest_city": "Gainesville Regional", "null": ["2064", "2064"], "TotalFlights": "-82.27177778", "Dest_long": "29.69005556", "Dest_lat": "Gainesville"}
+{"Dest_airport": "GPT", "Dest": "116", "Dest_city": "Gulfport-Biloxi Regional", "null": ["8538", "8538"], "TotalFlights": "-89.07009278", "Dest_long": "30.40728028", "Dest_lat": "Gulfport-Biloxi"}
+{"Dest_airport": "GRB", "Dest": "117", "Dest_city": "Austin Straubel International", "null": ["7929", "7929"], "TotalFlights": "-88.12959000000001", "Dest_long": "44.48507333", "Dest_lat": "Green Bay"}
+{"Dest_airport": "GRK", "Dest": "118", "Dest_city": "Robert Gray AAF", "null": ["3729", "3729"], "TotalFlights": "-97.82779778", "Dest_long": "31.06489778", "Dest_lat": "Killeen"}
+{"Dest_airport": "GRR", "Dest": "119", "Dest_city": "Kent County International", "null": ["16620", "16620"], "TotalFlights": "-85.52276778", "Dest_long": "42.88081972", "Dest_lat": "Grand Rapids"}
+{"Dest_airport": "GSO", "Dest": "120", "Dest_city": "Piedmont Triad International", "null": ["13549", "13549"], "TotalFlights": "-79.9372975", "Dest_long": "36.09774694", "Dest_lat": "Greensboro"}
+{"Dest_airport": "GSP", "Dest": "121", "Dest_city": "Greenville-Spartanburg", "null": ["11851", "11851"], "TotalFlights": "-82.21885833", "Dest_long": "34.89566722", "Dest_lat": "Greer"}
+{"Dest_airport": "GST", "Dest": "122", "Dest_city": "Gustavus", "null": ["85", "85"], "TotalFlights": "-135.7073814", "Dest_long": "58.42438139", "Dest_lat": "Gustavus"}
+{"Dest_airport": "GTF", "Dest": "123", "Dest_city": "Great Falls Intl", "null": ["2138", "2138"], "TotalFlights": "-111.37068529999999", "Dest_long": "47.48200194", "Dest_lat": "Great Falls"}
+{"Dest_airport": "GTR", "Dest": "124", "Dest_city": "Golden Triangle Regional", "null": ["964", "964"], "TotalFlights": "-88.59136861", "Dest_long": "33.45033444", "Dest_lat": "Columbus-Starkville-West Point"}
+{"Dest_airport": "GUC", "Dest": "125", "Dest_city": "Gunnison County", "null": ["959", "959"], "TotalFlights": "-106.9331817", "Dest_long": "38.53396333", "Dest_lat": "Gunnison"}
+{"Dest_airport": "HDN", "Dest": "126", "Dest_city": "Yampa Valley", "null": ["2384", "2384"], "TotalFlights": "-107.21765970000001", "Dest_long": "40.48118028", "Dest_lat": "Hayden"}
+{"Dest_airport": "HLN", "Dest": "127", "Dest_city": "Helena Regional", "null": ["1994", "1994"], "TotalFlights": "-111.9827503", "Dest_long": "46.60681806", "Dest_lat": "Helena"}
+{"Dest_airport": "HNL", "Dest": "128", "Dest_city": "Honolulu International", "null": ["56272", "56272"], "TotalFlights": "-157.92240719999998", "Dest_long": "21.31869111", "Dest_lat": "Honolulu"}
+{"Dest_airport": "HOU", "Dest": "129", "Dest_city": "William P Hobby", "null": ["55934", "55934"], "TotalFlights": "-95.27888889", "Dest_long": "29.64541861", "Dest_lat": "Houston"}
+{"Dest_airport": "HPN", "Dest": "130", "Dest_city": "Westchester Cty", "null": ["10706", "10706"], "TotalFlights": "-73.70757444", "Dest_long": "41.06695778", "Dest_lat": "White Plains"}
+{"Dest_airport": "HRL", "Dest": "131", "Dest_city": "Valley International", "null": ["4421", "4421"], "TotalFlights": "-97.65439389", "Dest_long": "26.22850611", "Dest_lat": "Harlingen"}
+{"Dest_airport": "HSV", "Dest": "132", "Dest_city": "Huntsville International ", "null": ["10783", "10783"], "TotalFlights": "-86.77310944", "Dest_long": "34.6404475", "Dest_lat": "Huntsville"}
+{"Dest_airport": "HTS", "Dest": "133", "Dest_city": "Tri-State/Walker-Long ", "null": ["159", "159"], "TotalFlights": "-82.55802778", "Dest_long": "38.36666667", "Dest_lat": "Huntington"}
+{"Dest_airport": "IAD", "Dest": "134", "Dest_city": "Washington Dulles International", "null": ["76022", "76022"], "TotalFlights": "-77.45580972", "Dest_long": "38.94453194", "Dest_lat": "Chantilly"}
+{"Dest_airport": "IAH", "Dest": "135", "Dest_city": "George Bush Intercontinental", "null": ["185160", "185160"], "TotalFlights": "-95.33972222", "Dest_long": "29.98047222", "Dest_lat": "Houston"}
+{"Dest_airport": "ICT", "Dest": "136", "Dest_city": "Wichita Mid-Continent", "null": ["14046", "14046"], "TotalFlights": "-97.43304583", "Dest_long": "37.64995889", "Dest_lat": "Wichita"}
+{"Dest_airport": "IDA", "Dest": "137", "Dest_city": "Idaho Falls Regional", "null": ["3110", "3110"], "TotalFlights": "-112.07016670000002", "Dest_long": "43.51455556", "Dest_lat": "Idaho Falls"}
+{"Dest_airport": "ILM", "Dest": "138", "Dest_city": "Wilmington International", "null": ["3394", "3394"], "TotalFlights": "-77.90255556", "Dest_long": "34.27061111", "Dest_lat": "Wilmington"}
+{"Dest_airport": "IND", "Dest": "139", "Dest_city": "Indianapolis International", "null": ["42732", "42732"], "TotalFlights": "-86.29438417", "Dest_long": "39.71732917", "Dest_lat": "Indianapolis"}
+{"Dest_airport": "INL", "Dest": "140", "Dest_city": "Falls International", "null": ["72", "72"], "TotalFlights": "-93.40306667", "Dest_long": "48.56618722", "Dest_lat": "International Falls"}
+{"Dest_airport": "IPL", "Dest": "141", "Dest_city": "Imperial County", "null": ["986", "986"], "TotalFlights": "-115.5787456", "Dest_long": "32.83422028", "Dest_lat": "Imperial"}
+{"Dest_airport": "ISP", "Dest": "142", "Dest_city": "Long Island - MacArthur", "null": ["10180", "10180"], "TotalFlights": "-73.10021194", "Dest_long": "40.7952425", "Dest_lat": "Islip"}
+{"Dest_airport": "ITH", "Dest": "143", "Dest_city": "Tompkins Cty ", "null": ["133", "133"], "TotalFlights": "-76.45844444", "Dest_long": "42.49102778", "Dest_lat": "Ithaca"}
+{"Dest_airport": "ITO", "Dest": "144", "Dest_city": "Hilo International", "null": ["8051", "8051"], "TotalFlights": "-155.04847030000002", "Dest_long": "19.72026306", "Dest_lat": "Hilo"}
+{"Dest_airport": "IYK", "Dest": "145", "Dest_city": "Inyokern", "null": ["954", "954"], "TotalFlights": "-117.8295122", "Dest_long": "35.65884306", "Dest_lat": "Inyokern"}
+{"Dest_airport": "JAC", "Dest": "146", "Dest_city": "Jackson Hole", "null": ["3764", "3764"], "TotalFlights": "-110.7377389", "Dest_long": "43.60732417", "Dest_lat": "Jackson"}
+{"Dest_airport": "JAN", "Dest": "147", "Dest_city": "Jackson International", "null": ["12606", "12606"], "TotalFlights": "-90.07588889", "Dest_long": "32.31116667", "Dest_lat": "Jackson"}
+{"Dest_airport": "JAX", "Dest": "148", "Dest_city": "Jacksonville International", "null": ["32702", "32702"], "TotalFlights": "-81.68786111", "Dest_long": "30.49405556", "Dest_lat": "Jacksonville"}
+{"Dest_airport": "JFK", "Dest": "149", "Dest_city": "John F Kennedy Intl", "null": ["118802", "118802"], "TotalFlights": "-73.77892556", "Dest_long": "40.63975111", "Dest_lat": "New York"}
+{"Dest_airport": "JNU", "Dest": "150", "Dest_city": "Juneau International", "null": ["4410", "4410"], "TotalFlights": "-134.57627639999998", "Dest_long": "58.35496194", "Dest_lat": "Juneau"}
+{"Dest_airport": "KOA", "Dest": "151", "Dest_city": "Kona International At Keahole", "null": ["12711", "12711"], "TotalFlights": "-156.0456314", "Dest_long": "19.73876583", "Dest_lat": "Kailua/Kona"}
+{"Dest_airport": "KTN", "Dest": "152", "Dest_city": "Ketchikan International", "null": ["2381", "2381"], "TotalFlights": "-131.71374", "Dest_long": "55.35556861", "Dest_lat": "Ketchikan"}
+{"Dest_airport": "LAN", "Dest": "153", "Dest_city": "Capital City", "null": ["3696", "3696"], "TotalFlights": "-84.58735806", "Dest_long": "42.7787", "Dest_lat": "Lansing"}
+{"Dest_airport": "LAS", "Dest": "154", "Dest_city": "McCarran International", "null": ["172871", "172871"], "TotalFlights": "-115.15233329999998", "Dest_long": "36.08036111", "Dest_lat": "Las Vegas"}
+{"Dest_airport": "LAW", "Dest": "155", "Dest_city": "Lawton-Ft Sill Regional", "null": ["2366", "2366"], "TotalFlights": "-98.41663667", "Dest_long": "34.56771444", "Dest_lat": "Lawton"}
+{"Dest_airport": "LAX", "Dest": "156", "Dest_city": "Los Angeles International", "null": ["215685", "215685"], "TotalFlights": "-118.40807439999999", "Dest_long": "33.94253611", "Dest_lat": "Los Angeles"}
+{"Dest_airport": "LBB", "Dest": "157", "Dest_city": "Lubbock International", "null": ["8248", "8248"], "TotalFlights": "-101.8227778", "Dest_long": "33.66363889", "Dest_lat": "Lubbock"}
+{"Dest_airport": "LCH", "Dest": "158", "Dest_city": "Lake Charles Regional", "null": ["999", "999"], "TotalFlights": "-93.22340361", "Dest_long": "30.126097499999997", "Dest_lat": "Lake Charles"}
+{"Dest_airport": "LEX", "Dest": "159", "Dest_city": "Blue Grass ", "null": ["10338", "10338"], "TotalFlights": "-84.60538889", "Dest_long": "38.03697222", "Dest_lat": "Lexington"}
+{"Dest_airport": "LFT", "Dest": "160", "Dest_city": "Lafayette Regional", "null": ["4879", "4879"], "TotalFlights": "-91.987655", "Dest_long": "30.20527972", "Dest_lat": "Lafayette"}
+{"Dest_airport": "LGA", "Dest": "161", "Dest_city": "LaGuardia", "null": ["119117", "119117"], "TotalFlights": "-73.87260917", "Dest_long": "40.77724306", "Dest_lat": "New York"}
+{"Dest_airport": "LGB", "Dest": "162", "Dest_city": "Long Beach (Daugherty )", "null": ["15449", "15449"], "TotalFlights": "-118.1516111", "Dest_long": "33.81772222", "Dest_lat": "Long Beach"}
+{"Dest_airport": "LIH", "Dest": "163", "Dest_city": "Lihue", "null": ["13179", "13179"], "TotalFlights": "-159.3389581", "Dest_long": "21.97598306", "Dest_lat": "Lihue"}
+{"Dest_airport": "LIT", "Dest": "164", "Dest_city": "Adams ", "null": ["15372", "15372"], "TotalFlights": "-92.22424556", "Dest_long": "34.72939611", "Dest_lat": "Little Rock"}
+{"Dest_airport": "LMT", "Dest": "165", "Dest_city": "Klamath Falls International", "null": ["510", "510"], "TotalFlights": "-121.7332081", "Dest_long": "42.15614361", "Dest_lat": "Klamath Falls"}
+{"Dest_airport": "LNK", "Dest": "166", "Dest_city": "Lincoln Municipal", "null": ["3037", "3037"], "TotalFlights": "-96.75925", "Dest_long": "40.85097222", "Dest_lat": "Lincoln"}
+{"Dest_airport": "LRD", "Dest": "167", "Dest_city": "Laredo International", "null": ["2116", "2116"], "TotalFlights": "-99.46154361", "Dest_long": "27.54373861", "Dest_lat": "Laredo"}
+{"Dest_airport": "LSE", "Dest": "168", "Dest_city": "La Crosse Municipal", "null": ["2005", "2005"], "TotalFlights": "-91.25653778", "Dest_long": "43.87937972", "Dest_lat": "La Crosse"}
+{"Dest_airport": "LWB", "Dest": "169", "Dest_city": "Greenbrier Valley", "null": ["185", "185"], "TotalFlights": "-80.39947222", "Dest_long": "37.85830556", "Dest_lat": "Lewisburg"}
+{"Dest_airport": "LWS", "Dest": "170", "Dest_city": "Lewiston-Nez Perce County", "null": ["652", "652"], "TotalFlights": "-117.01539440000002", "Dest_long": "46.37449806", "Dest_lat": "Lewiston"}
+{"Dest_airport": "LYH", "Dest": "171", "Dest_city": "Lynchburg Municipal-Preston Glenn ", "null": ["625", "625"], "TotalFlights": "-79.20043056", "Dest_long": "37.32668528", "Dest_lat": "Lynchburg"}
+{"Dest_airport": "MAF", "Dest": "172", "Dest_city": "Midland International", "null": ["6840", "6840"], "TotalFlights": "-102.20191390000001", "Dest_long": "31.94252778", "Dest_lat": "Midland"}
+{"Dest_airport": "MBS", "Dest": "173", "Dest_city": "Mbs International", "null": ["2917", "2917"], "TotalFlights": "-84.07964722", "Dest_long": "43.53291472", "Dest_lat": "Saginaw"}
+{"Dest_airport": "MCI", "Dest": "174", "Dest_city": "Kansas City International", "null": ["59361", "59361"], "TotalFlights": "-94.71390556", "Dest_long": "39.29760528", "Dest_lat": "Kansas City"}
+{"Dest_airport": "MCN", "Dest": "175", "Dest_city": "Middle Georgia Regional", "null": ["652", "652"], "TotalFlights": "-83.64921083", "Dest_long": "32.69284944", "Dest_lat": "Macon"}
+{"Dest_airport": "MCO", "Dest": "176", "Dest_city": "Orlando International", "null": ["130859", "130859"], "TotalFlights": "-81.31602778", "Dest_long": "28.42888889", "Dest_lat": "Orlando"}
+{"Dest_airport": "MDT", "Dest": "177", "Dest_city": "Harrisburg Intl", "null": ["7588", "7588"], "TotalFlights": "-76.76340361", "Dest_long": "40.19349528", "Dest_lat": "Harrisburg"}
+{"Dest_airport": "MDW", "Dest": "178", "Dest_city": "Chicago Midway", "null": ["87600", "87600"], "TotalFlights": "-87.75242444", "Dest_long": "41.7859825", "Dest_lat": "Chicago"}
+{"Dest_airport": "MEI", "Dest": "179", "Dest_city": "Key ", "null": ["674", "674"], "TotalFlights": "-88.75120556", "Dest_long": "32.33313333", "Dest_lat": "Meridian"}
+{"Dest_airport": "MEM", "Dest": "180", "Dest_city": "Memphis International", "null": ["80961", "80961"], "TotalFlights": "-89.97666667", "Dest_long": "35.04241667", "Dest_lat": "Memphis"}
+{"Dest_airport": "MFE", "Dest": "181", "Dest_city": "McAllen Miller International", "null": ["4113", "4113"], "TotalFlights": "-98.23861111", "Dest_long": "26.17583333", "Dest_lat": "McAllen"}
+{"Dest_airport": "MFR", "Dest": "182", "Dest_city": "Rogue Valley International", "null": ["5650", "5650"], "TotalFlights": "-122.8734978", "Dest_long": "42.37422778", "Dest_lat": "Medford"}
+{"Dest_airport": "MGM", "Dest": "183", "Dest_city": "Montgomery Regional Apt", "null": ["3853", "3853"], "TotalFlights": "-86.39397611", "Dest_long": "32.30064417", "Dest_lat": "Montgomery"}
+{"Dest_airport": "MHT", "Dest": "184", "Dest_city": "Manchester", "null": ["18582", "18582"], "TotalFlights": "-71.43705583", "Dest_long": "42.93451639", "Dest_lat": "Manchester"}
+{"Dest_airport": "MIA", "Dest": "185", "Dest_city": "Miami International", "null": ["62582", "62582"], "TotalFlights": "-80.29055556", "Dest_long": "25.79325", "Dest_lat": "Miami"}
+{"Dest_airport": "MKE", "Dest": "186", "Dest_city": "General Mitchell International", "null": ["42687", "42687"], "TotalFlights": "-87.89658333", "Dest_long": "42.94722222", "Dest_lat": "Milwaukee"}
+{"Dest_airport": "MKG", "Dest": "187", "Dest_city": "Muskegon County", "null": ["392", "392"], "TotalFlights": "-86.23822306", "Dest_long": "43.16948806", "Dest_lat": "Muskegon"}
+{"Dest_airport": "MLB", "Dest": "188", "Dest_city": "Melbourne International ", "null": ["2002", "2002"], "TotalFlights": "-80.64580556", "Dest_long": "28.10275", "Dest_lat": "Melbourne"}
+{"Dest_airport": "MLI", "Dest": "189", "Dest_city": "Quad City", "null": ["8566", "8566"], "TotalFlights": "-90.50753917", "Dest_long": "41.44852639", "Dest_lat": "Moline"}
+{"Dest_airport": "MLU", "Dest": "190", "Dest_city": "Monroe Regional", "null": ["2527", "2527"], "TotalFlights": "-92.03768778", "Dest_long": "32.51086556", "Dest_lat": "Monroe"}
+{"Dest_airport": "MOB", "Dest": "191", "Dest_city": "Mobile Regional", "null": ["6346", "6346"], "TotalFlights": "-88.24283333", "Dest_long": "30.69141667", "Dest_lat": "Mobile"}
+{"Dest_airport": "MOD", "Dest": "192", "Dest_city": "Modesto City-County-Harry Sham ", "null": ["2325", "2325"], "TotalFlights": "-120.95442140000002", "Dest_long": "37.62581722", "Dest_lat": "Modesto"}
+{"Dest_airport": "MOT", "Dest": "193", "Dest_city": "Minot International", "null": ["1085", "1085"], "TotalFlights": "-101.2803339", "Dest_long": "48.25937778", "Dest_lat": "Minot"}
+{"Dest_airport": "MRY", "Dest": "194", "Dest_city": "Monterey Peninsula", "null": ["7603", "7603"], "TotalFlights": "-121.84294779999999", "Dest_long": "36.5869825", "Dest_lat": "Monterey"}
+{"Dest_airport": "MSN", "Dest": "195", "Dest_city": "Dane County Regional", "null": ["13956", "13956"], "TotalFlights": "-89.33751361", "Dest_long": "43.13985778", "Dest_lat": "Madison"}
+{"Dest_airport": "MSO", "Dest": "196", "Dest_city": "Missoula International", "null": ["3259", "3259"], "TotalFlights": "-114.09055559999999", "Dest_long": "46.91630556", "Dest_lat": "Missoula"}
+{"Dest_airport": "MSP", "Dest": "197", "Dest_city": "Minneapolis-St Paul Intl", "null": ["130320", "130320"], "TotalFlights": "-93.2169225", "Dest_long": "44.88054694", "Dest_lat": "Minneapolis"}
+{"Dest_airport": "MSY", "Dest": "198", "Dest_city": "New Orleans International ", "null": ["39423", "39423"], "TotalFlights": "-90.25802778", "Dest_long": "29.99338889", "Dest_lat": "New Orleans"}
+{"Dest_airport": "MTJ", "Dest": "199", "Dest_city": "Montrose Regional", "null": ["2419", "2419"], "TotalFlights": "-107.89383329999998", "Dest_long": "38.50886722", "Dest_lat": "Montrose"}
+{"Dest_airport": "MYR", "Dest": "200", "Dest_city": "Myrtle Beach International", "null": ["5332", "5332"], "TotalFlights": "-78.92833333", "Dest_long": "33.67975", "Dest_lat": "Myrtle Beach"}
+{"Dest_airport": "OAJ", "Dest": "201", "Dest_city": "Albert J Ellis", "null": ["1184", "1184"], "TotalFlights": "-77.61213778", "Dest_long": "34.82916444", "Dest_lat": "Jacksonville"}
+{"Dest_airport": "OAK", "Dest": "202", "Dest_city": "Metropolitan Oakland International", "null": ["62533", "62533"], "TotalFlights": "-122.22071670000001", "Dest_long": "37.72129083", "Dest_lat": "Oakland"}
+{"Dest_airport": "OGD", "Dest": "203", "Dest_city": "Ogden-Hinckley", "null": ["2", "2"], "TotalFlights": "-112.012175", "Dest_long": "41.19594417", "Dest_lat": "Ogden"}
+{"Dest_airport": "OGG", "Dest": "204", "Dest_city": "Kahului", "null": ["19933", "19933"], "TotalFlights": "-156.43045780000003", "Dest_long": "20.89864972", "Dest_lat": "Kahului"}
+{"Dest_airport": "OKC", "Dest": "205", "Dest_city": "Will Rogers World", "null": ["25154", "25154"], "TotalFlights": "-97.60073389", "Dest_long": "35.39308833", "Dest_lat": "Oklahoma City"}
+{"Dest_airport": "OMA", "Dest": "206", "Dest_city": "Eppley Airfield", "null": ["27004", "27004"], "TotalFlights": "-95.89417306", "Dest_long": "41.30251861", "Dest_lat": "Omaha"}
+{"Dest_airport": "OME", "Dest": "207", "Dest_city": "Nome", "null": ["1090", "1090"], "TotalFlights": "-165.4452458", "Dest_long": "64.51220222", "Dest_lat": "Nome"}
+{"Dest_airport": "ONT", "Dest": "208", "Dest_city": "Ontario International", "null": ["35084", "35084"], "TotalFlights": "-117.60119440000001", "Dest_long": "34.056", "Dest_lat": "Ontario"}
+{"Dest_airport": "ORD", "Dest": "209", "Dest_city": "Chicago O'Hare International", "null": ["350452", "350452"], "TotalFlights": "-87.90446417", "Dest_long": "41.979595", "Dest_lat": "Chicago"}
+{"Dest_airport": "ORF", "Dest": "210", "Dest_city": "Norfolk International", "null": ["16455", "16455"], "TotalFlights": "-76.20122222", "Dest_long": "36.89461111", "Dest_lat": "Norfolk"}
+{"Dest_airport": "OTH", "Dest": "211", "Dest_city": "North Bend Muni", "null": ["517", "517"], "TotalFlights": "-124.2460278", "Dest_long": "43.41713889", "Dest_lat": "North Bend"}
+{"Dest_airport": "OTZ", "Dest": "212", "Dest_city": "Ralph Wien Memorial", "null": ["1086", "1086"], "TotalFlights": "-162.5985497", "Dest_long": "66.88467694", "Dest_lat": "Kotzebue"}
+{"Dest_airport": "OXR", "Dest": "213", "Dest_city": "Oxnard", "null": ["1291", "1291"], "TotalFlights": "-119.20721640000001", "Dest_long": "34.20080083", "Dest_lat": "Oxnard"}
+{"Dest_airport": "PBI", "Dest": "214", "Dest_city": "Palm Beach International", "null": ["27827", "27827"], "TotalFlights": "-80.09559417", "Dest_long": "26.68316194", "Dest_lat": "West Palm Beach"}
+{"Dest_airport": "PDX", "Dest": "215", "Dest_city": "Portland Intl", "null": ["57858", "57858"], "TotalFlights": "-122.5975", "Dest_long": "45.58872222", "Dest_lat": "Portland"}
+{"Dest_airport": "PFN", "Dest": "216", "Dest_city": "Panama City-Bay County International", "null": ["3874", "3874"], "TotalFlights": "-85.68280556", "Dest_long": "30.21208333", "Dest_lat": "Panama City"}
+{"Dest_airport": "PHF", "Dest": "217", "Dest_city": "Newport News/Williamsburg International", "null": ["6409", "6409"], "TotalFlights": "-76.4929875", "Dest_long": "37.13189556", "Dest_lat": "Newport News"}
+{"Dest_airport": "PHL", "Dest": "218", "Dest_city": "Philadelphia Intl", "null": ["100483", "100483"], "TotalFlights": "-75.24114083", "Dest_long": "39.87195278", "Dest_lat": "Philadelphia"}
+{"Dest_airport": "PHX", "Dest": "219", "Dest_city": "Phoenix Sky Harbor International", "null": ["199416", "199416"], "TotalFlights": "-112.00805559999999", "Dest_long": "33.43416667", "Dest_lat": "Phoenix"}
+{"Dest_airport": "PIA", "Dest": "220", "Dest_city": "Greater Peoria Regional", "null": ["5582", "5582"], "TotalFlights": "-89.69330556", "Dest_long": "40.66424333", "Dest_lat": "Peoria"}
+{"Dest_airport": "PIH", "Dest": "221", "Dest_city": "Pocatello Regional", "null": ["1669", "1669"], "TotalFlights": "-112.59586110000001", "Dest_long": "42.91130556", "Dest_lat": "Pocatello"}
+{"Dest_airport": "PIR", "Dest": "222", "Dest_city": "Pierre Regional", "null": ["5", "5"], "TotalFlights": "-100.285965", "Dest_long": "44.38267694", "Dest_lat": "Pierre"}
+{"Dest_airport": "PIT", "Dest": "223", "Dest_city": "Pittsburgh International", "null": ["41791", "41791"], "TotalFlights": "-80.23287083", "Dest_long": "40.49146583", "Dest_lat": "Pittsburgh"}
+{"Dest_airport": "PLN", "Dest": "224", "Dest_city": "Pellston Regional  of Emmet County", "null": ["264", "264"], "TotalFlights": "-84.796715", "Dest_long": "45.5709275", "Dest_lat": "Pellston"}
+{"Dest_airport": "PMD", "Dest": "225", "Dest_city": "Palmdale Production Flight", "null": ["729", "729"], "TotalFlights": "-118.0845528", "Dest_long": "34.62938889", "Dest_lat": "Palmdale"}
+{"Dest_airport": "PNS", "Dest": "226", "Dest_city": "Pensacola Regional", "null": ["9490", "9490"], "TotalFlights": "-87.18744444", "Dest_long": "30.47330556", "Dest_lat": "Pensacola"}
+{"Dest_airport": "PSC", "Dest": "227", "Dest_city": "Tri-Cities", "null": ["2541", "2541"], "TotalFlights": "-119.11902920000001", "Dest_long": "46.26468028", "Dest_lat": "Pasco"}
+{"Dest_airport": "PSE", "Dest": "228", "Dest_city": "Mercedita", "null": ["753", "753"], "TotalFlights": "-66.56301194", "Dest_long": "18.00830278", "Dest_lat": "Ponce"}
+{"Dest_airport": "PSG", "Dest": "229", "Dest_city": "James C. Johnson Petersburg", "null": ["727", "727"], "TotalFlights": "-132.9452781", "Dest_long": "56.80165194", "Dest_lat": "Petersburg"}
+{"Dest_airport": "PSP", "Dest": "230", "Dest_city": "Palm Springs International", "null": ["11978", "11978"], "TotalFlights": "-116.5062531", "Dest_long": "33.82921556", "Dest_lat": "Palm Springs"}
+{"Dest_airport": "PVD", "Dest": "231", "Dest_city": "Theodore F Green State", "null": ["22500", "22500"], "TotalFlights": "-71.42822111", "Dest_long": "41.72399917", "Dest_lat": "Providence"}
+{"Dest_airport": "PWM", "Dest": "232", "Dest_city": "Portland International Jetport", "null": ["6891", "6891"], "TotalFlights": "-70.30875", "Dest_long": "43.64616667", "Dest_lat": "Portland"}
+{"Dest_airport": "RAP", "Dest": "233", "Dest_city": "Rapid City Regional", "null": ["4162", "4162"], "TotalFlights": "-103.0573708", "Dest_long": "44.04532139", "Dest_lat": "Rapid City"}
+{"Dest_airport": "RDD", "Dest": "234", "Dest_city": "Redding Municipal", "null": ["1685", "1685"], "TotalFlights": "-122.2934019", "Dest_long": "40.50898361", "Dest_lat": "Redding"}
+{"Dest_airport": "RDM", "Dest": "235", "Dest_city": "Roberts ", "null": ["3438", "3438"], "TotalFlights": "-121.1499633", "Dest_long": "44.25406722", "Dest_lat": "Redmond"}
+{"Dest_airport": "RDU", "Dest": "236", "Dest_city": "Raleigh-Durham International", "null": ["60186", "60186"], "TotalFlights": "-78.78747222", "Dest_long": "35.87763889", "Dest_lat": "Raleigh"}
+{"Dest_airport": "RFD", "Dest": "237", "Dest_city": "Greater Rockford", "null": ["293", "293"], "TotalFlights": "-89.09721111", "Dest_long": "42.19536389", "Dest_lat": "Rockford"}
+{"Dest_airport": "RHI", "Dest": "238", "Dest_city": "Rhinelander-Oneida County", "null": ["221", "221"], "TotalFlights": "-89.46745361", "Dest_long": "45.63119306", "Dest_lat": "Rhinelander"}
+{"Dest_airport": "RIC", "Dest": "239", "Dest_city": "Richmond International", "null": ["19966", "19966"], "TotalFlights": "-77.31966667", "Dest_long": "37.50516667", "Dest_lat": "Richmond"}
+{"Dest_airport": "RKS", "Dest": "240", "Dest_city": "Rock Springs-Sweetwater County", "null": ["953", "953"], "TotalFlights": "-109.0651928", "Dest_long": "41.5942175", "Dest_lat": "Rock Springs"}
+{"Dest_airport": "RNO", "Dest": "241", "Dest_city": "Reno/Tahoe International", "null": ["24274", "24274"], "TotalFlights": "-119.76806470000001", "Dest_long": "39.49857611", "Dest_lat": "Reno"}
+{"Dest_airport": "ROA", "Dest": "242", "Dest_city": "Roanoke Regional/ Woodrum ", "null": ["3718", "3718"], "TotalFlights": "-79.97542833", "Dest_long": "37.32546833", "Dest_lat": "Roanoke"}
+{"Dest_airport": "ROC", "Dest": "243", "Dest_city": "Greater Rochester Int'l", "null": ["14253", "14253"], "TotalFlights": "-77.67238389", "Dest_long": "43.11886611", "Dest_lat": "Rochester"}
+{"Dest_airport": "ROW", "Dest": "244", "Dest_city": "Roswell Industrial Air Center", "null": ["961", "961"], "TotalFlights": "-104.5305556", "Dest_long": "33.30155556", "Dest_lat": "Roswell"}
+{"Dest_airport": "RST", "Dest": "245", "Dest_city": "Rochester International", "null": ["3352", "3352"], "TotalFlights": "-92.49798722", "Dest_long": "43.90882639", "Dest_lat": "Rochester"}
+{"Dest_airport": "RSW", "Dest": "246", "Dest_city": "Southwest Florida International", "null": ["27131", "27131"], "TotalFlights": "-81.75516667", "Dest_long": "26.53616667", "Dest_lat": "Ft. Myers"}
+{"Dest_airport": "SAN", "Dest": "247", "Dest_city": "San Diego International-Lindbergh ", "null": ["93750", "93750"], "TotalFlights": "-117.1896567", "Dest_long": "32.73355611", "Dest_lat": "San Diego"}
+{"Dest_airport": "SAT", "Dest": "248", "Dest_city": "San Antonio International", "null": ["45260", "45260"], "TotalFlights": "-98.46977778", "Dest_long": "29.53369444", "Dest_lat": "San Antonio"}
+{"Dest_airport": "SAV", "Dest": "249", "Dest_city": "Savannah International", "null": ["13774", "13774"], "TotalFlights": "-81.20213889", "Dest_long": "32.12758333", "Dest_lat": "Savannah"}
+{"Dest_airport": "SBA", "Dest": "250", "Dest_city": "Santa Barbara Municipal", "null": ["12573", "12573"], "TotalFlights": "-119.8403733", "Dest_long": "34.42621194", "Dest_lat": "Santa Barbara"}
+{"Dest_airport": "SBN", "Dest": "251", "Dest_city": "South Bend Regional", "null": ["5320", "5320"], "TotalFlights": "-86.31847417", "Dest_long": "41.70895361", "Dest_lat": "South Bend"}
+{"Dest_airport": "SBP", "Dest": "252", "Dest_city": "San Luis Obispo Co-McChesney ", "null": ["5839", "5839"], "TotalFlights": "-120.64239309999999", "Dest_long": "35.23705806", "Dest_lat": "San Luis Obispo"}
+{"Dest_airport": "SCC", "Dest": "253", "Dest_city": "Deadhorse", "null": ["727", "727"], "TotalFlights": "-148.4651608", "Dest_long": "70.19475583", "Dest_lat": "Deadhorse"}
+{"Dest_airport": "SDF", "Dest": "254", "Dest_city": "Louisville International-Standiford ", "null": ["22448", "22448"], "TotalFlights": "-85.736", "Dest_long": "38.17438889", "Dest_lat": "Louisville"}
+{"Dest_airport": "SEA", "Dest": "255", "Dest_city": "Seattle-Tacoma Intl", "null": ["109075", "109075"], "TotalFlights": "-122.30931310000001", "Dest_long": "47.44898194", "Dest_lat": "Seattle"}
+{"Dest_airport": "SFO", "Dest": "256", "Dest_city": "San Francisco International", "null": ["140579", "140579"], "TotalFlights": "-122.3748433", "Dest_long": "37.61900194", "Dest_lat": "San Francisco"}
+{"Dest_airport": "SGF", "Dest": "257", "Dest_city": "Springfield-Branson Regional", "null": ["10077", "10077"], "TotalFlights": "-93.38685806", "Dest_long": "37.24432611", "Dest_lat": "Springfield"}
+{"Dest_airport": "SGU", "Dest": "258", "Dest_city": "St George Muni", "null": ["3317", "3317"], "TotalFlights": "-113.59305559999999", "Dest_long": "37.09058333", "Dest_lat": "St George"}
+{"Dest_airport": "SHV", "Dest": "259", "Dest_city": "Shreveport Regional", "null": ["8077", "8077"], "TotalFlights": "-93.82559833", "Dest_long": "32.446627500000005", "Dest_lat": "Shreveport"}
+{"Dest_airport": "SIT", "Dest": "260", "Dest_city": "Sitka", "null": ["1332", "1332"], "TotalFlights": "-135.3615983", "Dest_long": "57.04713806", "Dest_lat": "Sitka"}
+{"Dest_airport": "SJC", "Dest": "261", "Dest_city": "San Jose International", "null": ["57143", "57143"], "TotalFlights": "-121.92900890000001", "Dest_long": "37.36186194", "Dest_lat": "San Jose"}
+{"Dest_airport": "SJT", "Dest": "262", "Dest_city": "San Angelo Regional /Mathis ", "null": ["1315", "1315"], "TotalFlights": "-100.4963056", "Dest_long": "31.35775", "Dest_lat": "San Angelo"}
+{"Dest_airport": "SJU", "Dest": "263", "Dest_city": "Luis Munoz Marin International", "null": ["21691", "21691"], "TotalFlights": "-66.00183333", "Dest_long": "18.43941667", "Dest_lat": "San Juan"}
+{"Dest_airport": "SLC", "Dest": "264", "Dest_city": "Salt Lake City Intl", "null": ["139077", "139077"], "TotalFlights": "-111.9777731", "Dest_long": "40.78838778", "Dest_lat": "Salt Lake City"}
+{"Dest_airport": "SLE", "Dest": "265", "Dest_city": "McNary Fld", "null": ["484", "484"], "TotalFlights": "-123.0025", "Dest_long": "44.90952778", "Dest_lat": "Salem"}
+{"Dest_airport": "SMF", "Dest": "266", "Dest_city": "Sacramento International", "null": ["53049", "53049"], "TotalFlights": "-121.5907669", "Dest_long": "38.69542167", "Dest_lat": "Sacramento"}
+{"Dest_airport": "SMX", "Dest": "267", "Dest_city": "Santa Maria Pub/Capt G Allan Hancock ", "null": ["1682", "1682"], "TotalFlights": "-120.4575825", "Dest_long": "34.89924833", "Dest_lat": "Santa Maria"}
+{"Dest_airport": "SNA", "Dest": "268", "Dest_city": "John Wayne /Orange Co", "null": ["47376", "47376"], "TotalFlights": "-117.86822250000002", "Dest_long": "33.67565861", "Dest_lat": "Santa Ana"}
+{"Dest_airport": "SPI", "Dest": "269", "Dest_city": "Capital", "null": ["1229", "1229"], "TotalFlights": "-89.67761861", "Dest_long": "39.84395194", "Dest_lat": "Springfield"}
+{"Dest_airport": "SPS", "Dest": "270", "Dest_city": "Sheppard AFB/Wichita Falls Municipal", "null": ["1831", "1831"], "TotalFlights": "-98.49189333", "Dest_long": "33.98879611", "Dest_lat": "Wichita Falls"}
+{"Dest_airport": "SRQ", "Dest": "271", "Dest_city": "Sarasota Bradenton International", "null": ["6429", "6429"], "TotalFlights": "-82.55411111", "Dest_long": "27.39533333", "Dest_lat": "Sarasota"}
+{"Dest_airport": "STL", "Dest": "272", "Dest_city": "Lambert-St Louis International", "null": ["62739", "62739"], "TotalFlights": "-90.35998972", "Dest_long": "38.74768694", "Dest_lat": "St Louis"}
+{"Dest_airport": "STT", "Dest": "273", "Dest_city": "Cyril E. King", "null": ["2972", "2972"], "TotalFlights": "-64.97336111", "Dest_long": "18.33730556", "Dest_lat": "Charlotte Amalie"}
+{"Dest_airport": "STX", "Dest": "274", "Dest_city": "Henry E. Rohlsen ", "null": ["436", "436"], "TotalFlights": "-64.79855556", "Dest_long": "17.70188889", "Dest_lat": "Christiansted"}
+{"Dest_airport": "SUN", "Dest": "275", "Dest_city": "Friedman Memorial", "null": ["2905", "2905"], "TotalFlights": "-114.29659029999999", "Dest_long": "43.50484139", "Dest_lat": "Hailey"}
+{"Dest_airport": "SUX", "Dest": "276", "Dest_city": "Sioux Gateway ", "null": ["121", "121"], "TotalFlights": "-96.38436694", "Dest_long": "42.40260333", "Dest_lat": "Sioux City"}
+{"Dest_airport": "SWF", "Dest": "277", "Dest_city": "Stewart", "null": ["4245", "4245"], "TotalFlights": "-74.10483833", "Dest_long": "41.50409361", "Dest_lat": "Newburgh"}
+{"Dest_airport": "SYR", "Dest": "278", "Dest_city": "Syracuse-Hancock Intl", "null": ["12036", "12036"], "TotalFlights": "-76.10631056", "Dest_long": "43.11118694", "Dest_lat": "Syracuse"}
+{"Dest_airport": "TEX", "Dest": "279", "Dest_city": "Telluride Regional", "null": ["194", "194"], "TotalFlights": "-107.90848000000001", "Dest_long": "37.95375861", "Dest_lat": "Telluride"}
+{"Dest_airport": "TLH", "Dest": "280", "Dest_city": "Tallahassee Regional", "null": ["5913", "5913"], "TotalFlights": "-84.35033333", "Dest_long": "30.39652778", "Dest_lat": "Tallahassee"}
+{"Dest_airport": "TOL", "Dest": "281", "Dest_city": "Toledo Express", "null": ["1476", "1476"], "TotalFlights": "-83.80783333", "Dest_long": "41.58680556", "Dest_lat": "Toledo"}
+{"Dest_airport": "TPA", "Dest": "282", "Dest_city": "Tampa International ", "null": ["78171", "78171"], "TotalFlights": "-82.53325", "Dest_long": "27.97547222", "Dest_lat": "Tampa"}
+{"Dest_airport": "TRI", "Dest": "283", "Dest_city": "Tri-Cities Regional", "null": ["2116", "2116"], "TotalFlights": "-82.40742056", "Dest_long": "36.47521417", "Dest_lat": "Bristol"}
+{"Dest_airport": "TUL", "Dest": "284", "Dest_city": "Tulsa International", "null": ["23455", "23455"], "TotalFlights": "-95.88824167", "Dest_long": "36.19837222", "Dest_lat": "Tulsa"}
+{"Dest_airport": "TUP", "Dest": "285", "Dest_city": "Tupelo Municipal ", "null": ["9", "9"], "TotalFlights": "-88.76989499999999", "Dest_long": "34.26810833", "Dest_lat": "Tupelo"}
+{"Dest_airport": "TUS", "Dest": "286", "Dest_city": "Tucson International", "null": ["26678", "26678"], "TotalFlights": "-110.94102779999999", "Dest_long": "32.11608333", "Dest_lat": "Tucson"}
+{"Dest_airport": "TVC", "Dest": "287", "Dest_city": "Cherry Capital", "null": ["4258", "4258"], "TotalFlights": "-85.582235", "Dest_long": "44.74144472", "Dest_lat": "Traverse City"}
+{"Dest_airport": "TWF", "Dest": "288", "Dest_city": "Joslin Field - Magic Valley", "null": ["1788", "1788"], "TotalFlights": "-114.4877356", "Dest_long": "42.48180389", "Dest_lat": "Twin Falls"}
+{"Dest_airport": "TXK", "Dest": "289", "Dest_city": "Texarkana Regional-Webb ", "null": ["1247", "1247"], "TotalFlights": "-93.99101999999999", "Dest_long": "33.45370806", "Dest_lat": "Texarkana"}
+{"Dest_airport": "TYR", "Dest": "290", "Dest_city": "Tyler Pounds ", "null": ["1585", "1585"], "TotalFlights": "-95.40238611", "Dest_long": "32.35413889", "Dest_lat": "Tyler"}
+{"Dest_airport": "TYS", "Dest": "291", "Dest_city": "McGhee-Tyson", "null": ["13999", "13999"], "TotalFlights": "-83.99285583", "Dest_long": "35.81248722", "Dest_lat": "Knoxville"}
+{"Dest_airport": "VLD", "Dest": "292", "Dest_city": "Valdosta Regional", "null": ["938", "938"], "TotalFlights": "-83.27672222", "Dest_long": "30.7825", "Dest_lat": "Valdosta"}
+{"Dest_airport": "VPS", "Dest": "293", "Dest_city": "Eglin Air Force Base", "null": ["6814", "6814"], "TotalFlights": "-86.5254", "Dest_long": "30.48325", "Dest_lat": "Valparaiso"}
+{"Dest_airport": "WRG", "Dest": "294", "Dest_city": "Wrangell", "null": ["727", "727"], "TotalFlights": "-132.3698242", "Dest_long": "56.48432583", "Dest_lat": "Wrangell"}
+{"Dest_airport": "WYS", "Dest": "295", "Dest_city": "Yellowstone", "null": ["264", "264"], "TotalFlights": "-111.1176375", "Dest_long": "44.68839917", "Dest_lat": "West Yellowstone"}
+{"Dest_airport": "XNA", "Dest": "296", "Dest_city": "Northwest Arkansas Regional", "null": ["14112", "14112"], "TotalFlights": "-94.30681111", "Dest_long": "36.28186944", "Dest_lat": "Fayetteville/Springdale/Rogers"}
+{"Dest_airport": "YAK", "Dest": "297", "Dest_city": "Yakutat", "null": ["725", "725"], "TotalFlights": "-139.6602261", "Dest_long": "59.50336056", "Dest_lat": "Yakutat"}
+{"Dest_airport": "YKM", "Dest": "298", "Dest_city": "Yakima Air Terminal", "null": ["338", "338"], "TotalFlights": "-120.54405940000001", "Dest_long": "46.56816972", "Dest_lat": "Yakima"}
+{"Dest_airport": "YUM", "Dest": "299", "Dest_city": "Yuma MCAS-Yuma International", "null": ["3874", "3874"], "TotalFlights": "-114.60597220000001", "Dest_long": "32.65658333", "Dest_lat": "Yuma"}
