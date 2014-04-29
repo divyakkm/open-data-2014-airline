@@ -1,65 +1,67 @@
-Origin,Origin_airport,Origin_city,Origin_lat,Origin_long,TotalFlights
-ABQ,Albuquerque International,Albuquerque,35.04022222,-106.6091944,183
-ALB,Albany Cty,Albany,42.74811944,-73.80297861,40
-AMA,Amarillo International,Amarillo,35.2193725,-101.7059272,32
-AUS,Austin-Bergstrom International,Austin,30.19453278,-97.66987194,136
-BDL,Bradley International,Windsor Locks,41.93887417,-72.68322833,54
-BHM,Birmingham International,Birmingham,33.56294306,-86.75354972,80
-BNA,Nashville International,Nashville,36.12447667,-86.67818222,243
-BOI,Boise Air Terminal,Boise,43.56444444,-116.2227778,56
-BUF,Buffalo Niagara Intl,Buffalo,42.94052472,-78.73216667,48
-BUR,Burbank-Glendale-Pasadena,Burbank,34.20061917,-118.3584969,167
-BWI,Baltimore-Washington International,Baltimore,39.17540167,-76.66819833,474
-CLE,Cleveland-Hopkins Intl,Cleveland,41.41089417,-81.84939667,49
-CMH,Port Columbus Intl,Columbus,39.99798528,-82.89188278,79
-CRP,Corpus Christi International,Corpus Christi,27.77036083,-97.50121528,14
-DAL,Dallas Love ,Dallas,32.84711389,-96.85177222,354
-DEN,Denver Intl,Denver,39.85840806,-104.6670019,157
-DTW,Detroit Metropolitan-Wayne County,Detroit,42.21205889,-83.34883583,56
-ELP,El Paso International,El Paso,31.80666667,-106.3778056,89
-FLL,Fort Lauderdale-Hollywood Int'l,Ft. Lauderdale,26.07258333,-80.15275,124
-GEG,Spokane Intl,Spokane,47.61985556,-117.5338425,47
-HOU,William P Hobby,Houston,29.64541861,-95.27888889,393
-HRL,Valley International,Harlingen,26.22850611,-97.65439389,30
-IAD,Washington Dulles International,Chantilly,38.94453194,-77.45580972,33
-IND,Indianapolis International,Indianapolis,39.71732917,-86.29438417,62
-ISP,Long Island - MacArthur,Islip,40.7952425,-73.10021194,111
-JAN,Jackson International,Jackson,32.31116667,-90.07588889,35
-JAX,Jacksonville International,Jacksonville,30.49405556,-81.68786111,87
-LAS,McCarran International,Las Vegas,36.08036111,-115.1523333,921
-LAX,Los Angeles International,Los Angeles,33.94253611,-118.4080744,426
-LBB,Lubbock International,Lubbock,33.66363889,-101.8227778,37
-LIT,Adams ,Little Rock,34.72939611,-92.22424556,39
-MAF,Midland International,Midland,31.94252778,-102.2019139,34
-MCI,Kansas City International,Kansas City,39.29760528,-94.71390556,200
-MCO,Orlando International,Orlando,28.42888889,-81.31602778,345
-MDW,Chicago Midway,Chicago,41.7859825,-87.75242444,638
-MHT,Manchester,Manchester,42.93451639,-71.43705583,87
-MSY,New Orleans International ,New Orleans,29.99338889,-90.25802778,101
-OAK,Metropolitan Oakland International,Oakland,37.72129083,-122.2207167,404
-OKC,Will Rogers World,Oklahoma City,35.39308833,-97.60073389,63
-OMA,Eppley Airfield,Omaha,41.30251861,-95.89417306,44
-ONT,Ontario International,Ontario,34.056,-117.6011944,156
-ORF,Norfolk International,Norfolk,36.89461111,-76.20122222,37
-PBI,Palm Beach International,West Palm Beach,26.68316194,-80.09559417,38
-PDX,Portland Intl,Portland,45.58872222,-122.5975,117
-PHL,Philadelphia Intl,Philadelphia,39.87195278,-75.24114083,173
-PHX,Phoenix Sky Harbor International,Phoenix,33.43416667,-112.0080556,560
-PIT,Pittsburgh International,Pittsburgh,40.49146583,-80.23287083,65
-PVD,Theodore F Green State,Providence,41.72399917,-71.42822111,98
-RDU,Raleigh-Durham International,Raleigh,35.87763889,-78.78747222,88
-RNO,Reno/Tahoe International,Reno,39.49857611,-119.7680647,113
-RSW,Southwest Florida International,Ft. Myers,26.53616667,-81.75516667,33
-SAN,San Diego International-Lindbergh ,San Diego,32.73355611,-117.1896567,291
-SAT,San Antonio International,San Antonio,29.53369444,-98.46977778,135
-SDF,Louisville International-Standiford ,Louisville,38.17438889,-85.736,58
-SEA,Seattle-Tacoma Intl,Seattle,47.44898194,-122.3093131,131
-SFO,San Francisco International,San Francisco,37.61900194,-122.3748433,73
-SJC,San Jose International,San Jose,37.36186194,-121.9290089,221
-SLC,Salt Lake City Intl,Salt Lake City,40.78838778,-111.9777731,136
-SMF,Sacramento International,Sacramento,38.69542167,-121.5907669,230
-SNA,John Wayne /Orange Co,Santa Ana,33.67565861,-117.8682225,107
-STL,Lambert-St Louis International,St Louis,38.74768694,-90.35998972,207
-TPA,Tampa International ,Tampa,27.97547222,-82.53325,246
-TUL,Tulsa International,Tulsa,36.19837222,-95.88824167,56
-TUS,Tucson International,Tucson,32.11608333,-110.9410278,59
+,Origin,Origin_airport,Origin_city,Origin_lat,Origin_long,Origin,Year
+,,,,,,len,len
+,,,,,,,
+0,ABQ,Albuquerque International,Albuquerque,35.04022222,-106.6091944,183,183
+1,ALB,Albany Cty,Albany,42.74811944,-73.80297861,40,40
+2,AMA,Amarillo International,Amarillo,35.2193725,-101.7059272,32,32
+3,AUS,Austin-Bergstrom International,Austin,30.19453278,-97.66987194,136,136
+4,BDL,Bradley International,Windsor Locks,41.93887417,-72.68322833,54,54
+5,BHM,Birmingham International,Birmingham,33.56294306,-86.75354972,80,80
+6,BNA,Nashville International,Nashville,36.12447667,-86.67818222,243,243
+7,BOI,Boise Air Terminal,Boise,43.56444444,-116.22277779999999,56,56
+8,BUF,Buffalo Niagara Intl,Buffalo,42.94052472,-78.73216667,48,48
+9,BUR,Burbank-Glendale-Pasadena,Burbank,34.20061917,-118.3584969,167,167
+10,BWI,Baltimore-Washington International,Baltimore,39.17540167,-76.66819833,474,474
+11,CLE,Cleveland-Hopkins Intl,Cleveland,41.41089417,-81.84939667,49,49
+12,CMH,Port Columbus Intl,Columbus,39.99798528,-82.89188278,79,79
+13,CRP,Corpus Christi International,Corpus Christi,27.77036083,-97.50121528,14,14
+14,DAL,Dallas Love ,Dallas,32.84711389,-96.85177222,354,354
+15,DEN,Denver Intl,Denver,39.85840806,-104.6670019,157,157
+16,DTW,Detroit Metropolitan-Wayne County,Detroit,42.21205889,-83.34883583,56,56
+17,ELP,El Paso International,El Paso,31.80666667,-106.37780559999999,89,89
+18,FLL,Fort Lauderdale-Hollywood Int'l,Ft. Lauderdale,26.07258333,-80.15275,124,124
+19,GEG,Spokane Intl,Spokane,47.61985556,-117.5338425,47,47
+20,HOU,William P Hobby,Houston,29.64541861,-95.27888889,393,393
+21,HRL,Valley International,Harlingen,26.22850611,-97.65439389,30,30
+22,IAD,Washington Dulles International,Chantilly,38.94453194,-77.45580972,33,33
+23,IND,Indianapolis International,Indianapolis,39.71732917,-86.29438417,62,62
+24,ISP,Long Island - MacArthur,Islip,40.7952425,-73.10021194,111,111
+25,JAN,Jackson International,Jackson,32.31116667,-90.07588889,35,35
+26,JAX,Jacksonville International,Jacksonville,30.49405556,-81.68786111,87,87
+27,LAS,McCarran International,Las Vegas,36.08036111,-115.15233329999998,921,921
+28,LAX,Los Angeles International,Los Angeles,33.94253611,-118.40807439999999,426,426
+29,LBB,Lubbock International,Lubbock,33.66363889,-101.8227778,37,37
+30,LIT,Adams ,Little Rock,34.72939611,-92.22424556,39,39
+31,MAF,Midland International,Midland,31.94252778,-102.20191390000001,34,34
+32,MCI,Kansas City International,Kansas City,39.29760528,-94.71390556,200,200
+33,MCO,Orlando International,Orlando,28.42888889,-81.31602778,345,345
+34,MDW,Chicago Midway,Chicago,41.7859825,-87.75242444,638,638
+35,MHT,Manchester,Manchester,42.93451639,-71.43705583,87,87
+36,MSY,New Orleans International ,New Orleans,29.99338889,-90.25802778,101,101
+37,OAK,Metropolitan Oakland International,Oakland,37.72129083,-122.22071670000001,404,404
+38,OKC,Will Rogers World,Oklahoma City,35.39308833,-97.60073389,63,63
+39,OMA,Eppley Airfield,Omaha,41.30251861,-95.89417306,44,44
+40,ONT,Ontario International,Ontario,34.056,-117.60119440000001,156,156
+41,ORF,Norfolk International,Norfolk,36.89461111,-76.20122222,37,37
+42,PBI,Palm Beach International,West Palm Beach,26.68316194,-80.09559417,38,38
+43,PDX,Portland Intl,Portland,45.58872222,-122.5975,117,117
+44,PHL,Philadelphia Intl,Philadelphia,39.87195278,-75.24114083,173,173
+45,PHX,Phoenix Sky Harbor International,Phoenix,33.43416667,-112.00805559999999,560,560
+46,PIT,Pittsburgh International,Pittsburgh,40.49146583,-80.23287083,65,65
+47,PVD,Theodore F Green State,Providence,41.72399917,-71.42822111,98,98
+48,RDU,Raleigh-Durham International,Raleigh,35.87763889,-78.78747222,88,88
+49,RNO,Reno/Tahoe International,Reno,39.49857611,-119.76806470000001,113,113
+50,RSW,Southwest Florida International,Ft. Myers,26.53616667,-81.75516667,33,33
+51,SAN,San Diego International-Lindbergh ,San Diego,32.73355611,-117.1896567,291,291
+52,SAT,San Antonio International,San Antonio,29.53369444,-98.46977778,135,135
+53,SDF,Louisville International-Standiford ,Louisville,38.17438889,-85.736,58,58
+54,SEA,Seattle-Tacoma Intl,Seattle,47.44898194,-122.30931310000001,131,131
+55,SFO,San Francisco International,San Francisco,37.61900194,-122.3748433,73,73
+56,SJC,San Jose International,San Jose,37.36186194,-121.92900890000001,221,221
+57,SLC,Salt Lake City Intl,Salt Lake City,40.78838778,-111.9777731,136,136
+58,SMF,Sacramento International,Sacramento,38.69542167,-121.5907669,230,230
+59,SNA,John Wayne /Orange Co,Santa Ana,33.67565861,-117.86822250000002,107,107
+60,STL,Lambert-St Louis International,St Louis,38.74768694,-90.35998972,207,207
+61,TPA,Tampa International ,Tampa,27.97547222,-82.53325,246,246
+62,TUL,Tulsa International,Tulsa,36.19837222,-95.88824167,56,56
+63,TUS,Tucson International,Tucson,32.11608333,-110.94102779999999,59,59
